@@ -1,0 +1,425 @@
+iDISK_ID,Name,CUI,MSKCC_Name
+SS000000,Mania,C0564408,Mania | manic episode | manic phase
+SS000001,illness,C0221423,Scleroderma-like illness | illnesses requiring hospitalization | Severe illness | HISTORY OF PRESENT ILLNESS | influenza like illness
+SS000002,Pain,C0030193,"Pain | pain | irritating pain | PAIN EYE | Pain, NOS | Application site pain | absence of pain sensation"
+SS000003,Swelling,C0038999,Swelling of hands and feet | swelling | Pruritic swelling/darkening of lower lip | Swelling | tongue swelling
+SS000004,Skin rash,C5779628,Skin rash | rash | generalized eczematous cutaneous eruption | hive-like rash | exanthema | skin eruptions | Erythrodermic skin eruption | exanthemata | hand rash
+SS000005,Weight loss,C1262477,Weight loss | weight loss
+SS000006,Eosinophilia,C2240374,Eosinophilia
+SS000007,Nausea,C0027497,Nausea | nausea | mild nausea | nauseas
+SS000008,Vomiting,C0042963,"Vomiting | vomiting | Emesis | Severe vomiting | Prolonged vomiting | Post-prandial food vomiting | Vomiting, NOS | Nausea or vomiting"
+SS000009,Diarrhea,C0011991,Diarrhea | Loose stools | Haemorrhagic diarrhoea | Diarrheas
+SS000010,Headache,C0018681,"Headache | headache | headaches | recurrent thunderclap headaches | thunderclap headache | slight headaches | Headaches | Headache, NOS"
+SS000011,Insomnia,C0917801,Insomnia | insomnia
+SS000012,Palpitations,C0030252,Palpitations | palpitations
+SS000013,redness,C0332575,redness | redness at injection site | Redness
+SS000014,soreness,C0234233,soreness | tenderness at injection site | tenderness | Soreness | sore to touch
+SS000015,hepatic dysfunction,C0086565,hepatic dysfunction | liver dysfunction | Liver dysfunction
+SS000016,itching,C0033774,"itching | Pruritus | pruritus | pruritis | Itching around the mouth | Itching | itchy rash | Pruritus, NOS"
+SS000017,Increased,C5236002,Increased fecal volume | Increased lactogenesis | Increase in the luteal phase of the menstrual cycle | Increase of serum homocysteine
+SS000018,loose stools,C2129214,loose stools | LOOSE STOOL
+SS000019,diarrhea,C2169706,diarrhea | mild diarrhea | bloody diarrhea | Clostridium difficile-associated diarrhea | Chronic diarrhea
+SS000020,abdominal discomfort,C0232487,abdominal discomfort | DISCOMFORT ABDOMINAL
+SS000021,gas,C0596601,intestinal gas | gas | Gas
+SS000022,Hypokalemia,C0020621,Hypokalemia | vitamin B12 deficiency | cobalamin deficiency | folate deficiency | hypokalemia | Severe refractory hypokalaemia | Iron deficiency anemia | copper deficiency
+SS000023,Hypoglycemia,C0595883,Hypoglycemia | hypoglycemia
+SS000024,dyspepsia,C0013395,dyspepsia | Dyspepsia | indigestion | Dyspepsias
+SS000025,lesion,C0221198,pancreatic cystic lesion | worsening lesions | Pruritic erythematous lesions | itchy lesions | erythematous lesions | ischemic lesions of the colonic mucosa | recurrent lesion
+SS000026,Recurrent hypoglycemia,C1846288,Recurrent hypoglycemia
+SS000027,dizziness,C0042571,dizziness | Vertigo | Vertigos
+SS000028,organ failure,C0349410,Multiple organ failure
+SS000029,convulsions,C0036572,Pediatric convulsions | seizures | Seizures | generalized seizures | Seizure | Multiple seizures | poor seizure control | convulsions | repeated seizures
+SS000030,intoxication,C0728899,intoxication | Peditriatric intoxication | Intoxication | signs of intoxication
+SS000031,speech language,C0237113,Neurodegenerative disease: Progressive supranuclear palsy-speech language variant
+SS000032,cyanosis,C0010520,cyanosis | Cyanoses
+SS000033,hypotension,C0020649,hypotension | Hypotension | prolonged hypotension | decreased blood pressure
+SS000034,eyelid droop,C0423131,eyelid droop
+SS000035,death,C1306577,death | sudden cardiac death | Death | subsequent death
+SS000036,fatigue,C0015672,fatigue | Fatigue | severe fatigue | Severe fatigue | fatigued | fatigue chronic | Muscle Fatigue | Transient heat fatigue
+SS000037,skin rash,C0015230,skin rash | rashes | Rash | facial skin rash
+SS000038,lymphadenopathy,C4282165,lymphadenopathy | swollen glands
+SS000039,altered taste,C0740425,altered taste
+SS000040,flank pain,C0016199,flank pain
+SS000041,sleepiness,C0013144,sleepiness | drowsiness | somnolence | Somnolence | Sleepiness | Drowsiness
+SS000042,fever,C0424755,fever | Fever | mild fever
+SS000043,slurred speech,C0234518,slurred speech
+SS000044,stomach fullness,C0740432,stomach fullness
+SS000045,Abdominal pain,C0000737,Abdominal pain | abdominal pain | Severe abdominal pain | severe abdominal pain | PAIN ABDOMINAL
+SS000046,bloating,C1291077,bloating | bloating abdominal
+SS000047,Gastrointestinal distress,C0548823,Gastrointestinal distress | gastrointestinal distress | Minor gastrointestinal distress
+SS000048,tachycardia,C0039231,tachycardia | Ventricular tachycardia | increased heart rate | rapid pulse | ventricular tachycardia | non-sustained ventricular tachycardia | Supraventricular tachycardia
+SS000049,dyspnea,C2024878,dyspnea | severe dyspnea | sudden dyspnea
+SS000050,vision loss,C3665347,bilateral vision loss | Visual impairment | decreased vision | vision loss
+SS000051,Hemolytic,C2945560,Hemolytic anemia
+SS000052,discomfort,C2364135,upper GI discomfort | GI discomfort
+SS000053,Giddiness,C0476206,Giddiness | Dizziness and giddiness symptoms
+SS000054,nasal congestion,C0027424,nasal congestion
+SS000055,cough,C0010200,"cough | coughing | COUGH, DRY | COUGHING"
+SS000056,decreased appetite,C0232462,decreased appetite | decrease in appetite
+SS000057,constipation,C0009806,constipation | Constipation
+SS000058,cramps,C0026821,nocturnal cramps | cramping | cramps | CRAMP MUSCLE
+SS000059,blurring of vision,C0344232,blurring of vision | blurred vision
+SS000060,weight gain,C0043094,weight gain | Weight gain
+SS000061,Burning,C0085624,"Burning | Burning sensations | burning sensation | burning sensation on mucous membranes | Sensation, Burning"
+SS000062,discoloration of skin,C0151907,discoloration of skin/mucous membrane
+SS000063,transplant,C0478647,Kidney transplant rejection | Liver failure requiring transplant | Acute transplant rejection
+SS000064,malaise,C0231218,malaise | Malaise
+SS000065,blood pressure,C1271104,lowering of blood pressure
+SS000066,stomach upset,C0235309,stomach upset | upset stomach | stomach discomfort | Upset stomach | STOMACH UPSET | ACHE STOMACH
+SS000067,epigastric discomfort,C0232570,epigastric discomfort
+SS000068,Elevated serum glutamic-pyruvic transaminase,C0151905,elevated serum glutamic pyruvic transaminase
+SS000069,GI symptoms,C0426576,severe GI symptoms | Minor gastrointestinal symptoms | gastrointestinal symptoms | Gastrointestinal symptoms | transient GI symptoms
+SS000070,No hyperkeratosis,C3873447,hyperkeratosis
+SS000071,splenomegaly,C0038002,splenomegaly
+SS000072,Fatal,C1705232,Fatal congenital defects | Fatal sepsis | Fatal bleeding | Fatal arrhythmia | Fatal fulminant liver failure
+SS000073,Anorexia,C1971624,Anorexia
+SS000074,epigastric pain,C0232493,severe epigastric pain | epigastric pain | chronic epigastric pain | PAIN EPIGASTRIC
+SS000075,vitality,C0424589,sperm vitality
+SS000076,complaints,C5441521,dyspeptic complaints | GI complaints | cardiac complaints | gastrointestinal complaints
+SS000077,Bradycardia,C3812171,Bradycardia
+SS000078,difficulties,C1299586,eating difficulties | difficulty swallowing | swallowing difficulties | difficulties in swallowing
+SS000079,Severe,C1561581,Severe hyponatremia | Severe anaphylaxis | Severe migraine aura | Severe thrombotic thrombocytopenic purpura | Severe acute hepatitis | Severe acute liver failure | Severe coagulation failure | Severe burns | Severe epistaxis | Severe hepatitis | Severe liver damage | Severe hypothyroidism | Severe drug-induced acute hepatitis | Severe skin toxicity | Severe cyanide poisoning | Severe poisoning | Severe priapism
+SS000080,Disfigurement,C1707791,Disfigurement
+SS000081,No cardiomyopathy,C1837350,cardiomyopathy | Non-ischaemic cardiomyopathy | stress cardiomyopathy | Takotsubo cardiomyopathy
+SS000082,belching,C0014724,belching | eructation | Eructations
+SS000083,Methemoglobinemia,C5700167,infant methemoglobinemia | methemoglobinemia | Methemoglobinemia
+SS000084,Altered sense of taste,C0013378,Altered sense of taste | Taste disturbances
+SS000085,allergy,C0489531,cow’s milk allergy | Pollen-food allergy syndrome | Occupational allergy | Type 1 allergy | allergy | severe respiratory allergy | contact allergy
+SS000086,Digestive problems,C0851121,Digestive problems
+SS000087,stomach ache,C0221512,stomach ache | referred gastric pain | severe stomach pain | Stomach ache
+SS000088,frequent bowel movements,C0239978,frequent bowel movements
+SS000089,eyelid,C2239120,oedema of the eyelids
+SS000090,flatulence,C0016204,flatulence | Flatulence
+SS000091,hypercalciuria,C0020438,hypercalciuria
+SS000092,Ca nephrolithiasis,C1855801,nephrolithiasis
+SS000093,Increased risk,C4699158,increased risk for prostate cancer
+SS000094,Hypercalcemia,C5700155,Hypercalcemia-induced pancreatitis | Hypercalcemia
+SS000095,disorientation,C0233407,disorientation
+SS000096,loss of balance,C0241981,loss of balance
+SS000097,transient,C0687129,transient ischemic attack
+SS000098,irritability,C0022107,irritability | Irritability | Intermittent irritability
+SS000099,Sleeping difficulties,C0235162,sleeping difficulties | difficulty sleeping | sleeping difficulty
+SS000100,anxiety,C0860603,anxiety | Depression/anxiety relapse | feeling of anxiety | anxiety disorder
+SS000101,hyperemesis,C0235250,Cannabis hyperemesis syndrome
+SS000102,morbidity,C0026538,Perioperative morbidity
+SS000103,urticaria,C2186740,urticaria | Contact urticaria
+SS000104,lacrimation,C0423153,lacrimation | Tearing
+SS000105,rhinorrhea,C1260880,rhinorrhea | Rhinorrhea
+SS000106,blistering,C0344311,blistering | fever blisters | painful blisters | blisters | localized blisters
+SS000107,mobility,C0425245,mobility sequelae
+SS000108,neuropathic pain,C3714625,neuropathic pain
+SS000109,heartburn,C0018834,heartburn | Heartburn | PYROSIS
+SS000110,Unpleasant body odor,C0474432,unpleasant body odor
+SS000111,Abdominal cramps,C0000729,Abdominal cramps | abdominal cramping | cramps abdominal
+SS000112,imbalance,C1397014,"electrolyte imbalance | fluid and electrolyte imbalance | Electrolyte imbalance | Imbalance, Electrolyte"
+SS000113,Depigmentation,C3887488,darkened pigmentation of the colonic mucosa
+SS000114,Worsening,C1457868,Worsening motor signs | worsened rhinitis
+SS000115,exfoliation,C0237849,Gastric cell exfoliation | scaling
+SS000116,Tachycardia,C3827868,Tachycardia
+SS000117,Prolonged QT interval,C0151878,Prolonged QT interval
+SS000118,Fainting,C0039070,Fainting | fainting | syncope | Syncopes
+SS000119,potassium level,C0428289,Low potassium levels
+SS000120,Hypersensitivity,C0520946,Hypersensitivity reactions | Hypersensitivity pneumonitis
+SS000121,Premature,C4018905,Premature constriction of fetal ductus arteriosus
+SS000122,generalized urticaria,C0750016,generalized urticaria
+SS000123,shortness of breath,C0013404,shortness of breath | Dyspnea | Shortness of breath
+SS000124,Breast tension,C1142383,breast tension
+SS000125,jaundice,C2203646,jaundice
+SS000126,erythematous rash,C0234913,erythematous rash | Erythematous rash
+SS000127,appetite suppression,C0858274,appetite suppression
+SS000128,immune,C0439662,pauci-immune crescentic glomerulonephritis | depressed immune function
+SS000129,gait problems,C0575081,sensory and gait problems | Gait disturbance
+SS000130,visual disturbance,C0547030,visual disturbance
+SS000131,excessive bleeding,C0424561,Excessive bleeding
+SS000132,discolored stools,C0235315,Dark colored stools
+SS000133,grade,C3244287,low-grade hematological and gastrointestinal toxicities
+SS000134,renal colic,C0152169,right renal colic
+SS000135,Increased INR,C0853225,Increased INR
+SS000136,Digital necrosis,C0919725,Digital necrosis
+SS000137,No kidney disease,C1838421,chronic kidney disease
+SS000138,obstruction,C0028778,Intestinal obstruction | heart block | Small bowel obstruction
+SS000139,anorexia,C0426579,"anorexia | loss of appetite | appetite loss | anorexia nervosa | ANOREXIA, NERVOSA"
+SS000140,Hyperglycemia,C2919432,hyperglycemia | Factitious hyperglycemia
+SS000141,mental status,C0278060,altered mental status
+SS000142,flushing,C0016382,flushing | Flushing
+SS000143,abdominal cramps,C3888418,abdominal cramps | Mild abdominal cramps
+SS000144,hypothermia,C0020672,hypothermia
+SS000145,systemic symptoms,C2039684,Systemic symptoms | systemic symptoms | No systemic symptoms
+SS000146,Garlic taste,C0235291,Garlic taste in mouth
+SS000147,dry skin,C0151908,dry skin | Dry mouth | Dry skin
+SS000148,urine discoloration,C0522153,urine discoloration
+SS000149,halitosis,C0018520,halitosis | Halitoses
+SS000150,agitation,C0085631,agitation | Agitation | restless leg syndrome
+SS000151,sedation,C0235195,sedation | daytime sedation/dullness
+SS000152,Bloating,C0000731,Bloating | abdominal distention
+SS000153,Exacerbation,C4086268,Pemphigus vulgaris exacerbation | Exacerbation of myasthenia gravis
+SS000154,Asymptomatic,C0231221,Asymptomatic leukopenia | Asymptomatic eosinophilia
+SS000155,palsy,C3887651,Bilateral central facial palsy
+SS000156,quadriparesis,C0270790,severe quadriparesis
+SS000157,Eye irritation,C0235266,Eye irritation
+SS000158,neurologic symptoms,C0235031,neurologic symptoms | Psychiatric-neurological symptoms
+SS000159,numbness,C0020580,numbness
+SS000160,attack,C1304680,heart attack | asthma attacks
+SS000161,ocular pain,C0151827,acute bilateral ocular pain | ocular pain
+SS000162,atrial tachycardia,C2059391,atrial tachycardia
+SS000163,Sweating,C0038990,Sweating | sweating | perspiration with foul odor | sweats
+SS000164,feeling hot,C0424749,feeling hot
+SS000165,Vasculitic rash,C0521161,Vasculitic rash
+SS000166,Tachyarrhythmia,C0080203,Tachyarrhythmia
+SS000167,hypomania,C0241934,hypomania
+SS000168,chest pain,C0008031,chest pain | mild chest pain
+SS000169,myalgia,C0231528,myalgia | muscle pain | muscle aches and pains | muscle ache | Muscle pain | EOSINOPHILIA-MYALGIA SYNDROME | MYALGIAS
+SS000170,generalized abdominal pain,C0344304,"generalized abdominal pain | Abdominal pain, generalized"
+SS000171,frequent urination,C0042023,frequent urination | urinary frequency
+SS000172,blemishes,C0849370,skin blemishes
+SS000173,flu-like symptoms,C0392171,flu-like symptoms | Flu-like symptoms
+SS000174,membrane rupture,C0233308,prolonged membrane rupture
+SS000175,vacuum extraction,C0438443,vacuum extraction
+SS000176,Petechiae,C0241144,Petechiae | PETECHIAE
+SS000177,wheezing,C0043144,wheezing
+SS000178,numbness of head,C0858583,numbness of head
+SS000179,depression,C1579931,postnatal depression | depression | central nervous system depression | severe depression | bone marrow depression | bone depression marrow | cns depression
+SS000180,Pulmonary,C4522268,Pulmonary embolism | Pulmonary arterial hypertension | Pulmonary fibrosis
+SS000181,No erectile dysfunction,C5437705,erectile dysfunction
+SS000182,exacerbated,C0436331,exacerbated dermatitis | Drug-Aggravated Bullous Pemphigoid
+SS000183,Muscle stiffness,C0221170,Muscle stiffness | muscular stiffness
+SS000184,Result,C2825142,Alteration of Coagulation Test Results
+SS000185,Vaginal Bleeding,C0578503,Vaginal Bleeding
+SS000186,low hemoglobin,C0162119,low hemoglobin
+SS000187,Upper respiratory tract symptoms,C4749031,upper respiratory tract symptoms
+SS000188,Skeletal muscle damage,C3806200,Skeletal muscle damage
+SS000189,profuse sweating,C0700590,profuse sweating | diaphoresis
+SS000190,Diabetic,C0241863,Diabetic ketoacidosis
+SS000191,Decreased vision,C0558171,Decreased vision
+SS000192,Prolonged bleeding,C2673579,Prolonged bleeding | Prolonged bleeding time | prolonged bleeding time
+SS000193,chemical burn,C2136657,Chemical burn of oral mucosa
+SS000194,muscle weakness,C0151786,muscle weakness | Muscle weakness | muscular weakness | WEAKNESS MUSCLE
+SS000195,paresthesia,C2242996,paresthesias | tingling | PARAESTHESIA
+SS000196,sensory ataxia,C0240991,"sensory ataxia | Irreversible sensory ataxia | Ataxia, Sensory"
+SS000197,elevated liver enzymes,C0235996,elevated liver enzymes | Elevated liver enzymes
+SS000198,ataxia,C0004134,cerebellar ataxia | ataxia | ATAXIA CEREBELLAR | Ataxias
+SS000199,Bone marrow hypoplasia,C1855710,bone marrow hypoplasia
+SS000200,weakness,C3714552,weakness | WEAKNESS
+SS000201,high fever,C0743973,high fever
+SS000202,tumor pain,C0854069,tumor pain | Tumor pain
+SS000203,intestinal cramp,C0877617,intestinal cramping | intestinal cramps
+SS000204,malabsorption,C3714745,malabsorption
+SS000205,hematemesis,C0018926,hematemesis | Hematemeses
+SS000206,black stool,C0474585,black stool
+SS000207,macula,C0332573,macular erythema
+SS000208,nervousness,C0027769,nervousness
+SS000209,speech difficulties,C0233715,speech difficulties
+SS000210,severe,C0205082,severe coagulopathy | severe outcomes | Myasthenia gravis | severe psychotic disorder | severe peripheral sensory neuropathies
+SS000211,right upper quadrant pain,C0235299,right upper quadrant pain
+SS000212,Increased intraocular pressure,C0234708,Increased intraocular pressure
+SS000213,Reduced,C0392756,Reduced glucose tolerance | Reduced T-cell function
+SS000214,No peripheral edema,C2712244,peripheral edema
+SS000215,scleral icterus,C0240962,scleral icterus
+SS000216,Hypernatremia,C1522136,Hypernatremia
+SS000217,transaminitis,C2242708,transaminitis | Hypertransaminasemia
+SS000218,Rectal,C4521903,Rectal bleeding
+SS000219,ECG: premature ventricular contractions,C1960151,Premature ventricular contractions
+SS000220,hiccups,C0019521,hiccups
+SS000221,Blue,C3810842,Blue-green hands
+SS000222,hyperexcitability,C0856984,Neuromuscular hyperexcitability
+SS000223,Vaginal,C4521343,Vaginal scarring
+SS000224,angle closure,C0429528,Acute angle closure glaucoma
+SS000225,Foreign-body sensation,C0920171,Foreign-body sensation
+SS000226,Tremor,C0040822,Tremor | diffuse tremor
+SS000227,Lethargy,C0023380,Lethargy | lethargy | lethargic
+SS000228,giddiness,C0392701,giddiness
+SS000229,Disturbance of skin sensation,C0423575,disturbance of skin sensation | Disturbance of skin sensation
+SS000230,scars,C0241158,scars
+SS000231,pimples,C0542346,pimples
+SS000232,impotence,C2187990,impotence
+SS000233,decreased,C0442797,decreased respirations | decreased perfusion
+SS000234,trembling,C0234369,trembling
+SS000235,Red discoloration of urine,C5394439,discoloration of urine
+SS000236,steatorrhea,C0038238,steatorrhea
+SS000237,decreased libido,C0011124,decreased libido in men | decreased libido
+SS000238,excitability,C0235169,excitability | Excitability
+SS000239,bradycardia,C0428977,bradycardia
+SS000240,nasal obstruction,C0027429,nasal obstruction
+SS000241,eye itching,C0022281,eye itching
+SS000242,choking sensation,C0546947,choking sensation
+SS000243,thickening,C0205400,wall thickening
+SS000244,elevated liver function tests,C0877359,elevated liver function tests
+SS000245,behaviors,C0677505,Impaired driving behavior | behavior | significant changes in behavior
+SS000246,neck pain,C0007859,head and neck pain | Neck pain
+SS000247,pleural effusion,C2073625,pleural effusions
+SS000248,No lactic acidosis,C1856287,Severe metabolic lactic acidosis
+SS000249,bacteremia,C0004610,bacteremia | Bacteremia | Lactobacillus acidophilus bacteremia
+SS000250,Hematogenous spread,C0796572,hematogenous spread
+SS000251,chills,C0085593,chills
+SS000252,muscle spasms,C0037763,muscle spasms | SPASMS
+SS000253,mood,C5444612,depressed mood | altered mood
+SS000254,hot flashes,C0600142,hot flashes | Hot flashes | flushes hot
+SS000255,Transient paralysis,C1868914,Transient paralysis
+SS000256,Overdose,C4018909,Overdose
+SS000257,brown urine,C1142277,brown urine
+SS000258,Elevated AST,C0151904,elevated AST/ALT levels
+SS000259,Premature breast development,C0425772,Premature breast development
+SS000260,Dizziness,C0012833,Dizziness
+SS000261,excessive urination,C0848390,excessive urination
+SS000262,increased appetite,C0232461,increased appetite
+SS000263,negative,C0205160,negative effects on renal function
+SS000264,back pain,C0004604,back pain
+SS000265,leg pain,C0023222,leg pain
+SS000266,rigor,C0026837,rigor
+SS000267,Granulocytopenia,C1306872,granulocytopenia
+SS000268,chest tightness,C0232292,chest tightness | tightness chest
+SS000269,wheals,C0221232,erythematous wheals | Welts
+SS000270,toxic reaction,C0542243,toxic reactions
+SS000271,hypertensive,C0857121,hypertensive retinopathy | hypertensive crisis | hypertensive | Hypertensive urgency
+SS000272,adrenal,C0521428,adrenal crisis
+SS000273,ventricular fibrillation,C2108112,ventricular fibrillation
+SS000274,leukoderma,C3714505,leukoderma
+SS000275,Cerebral microbleeds,C5195001,cerebral microbleeds
+SS000276,Lethal arrhythmias,C5830266,Lethal arrhythmia
+SS000277,aching,C0234238,aching
+SS000278,slight fever,C1096446,slight fever
+SS000279,throat irritation,C0700184,throat irritation
+SS000280,joint pain,C0003862,joint pain
+SS000281,Orange skin discoloration,C5233026,deep orange skin discoloration
+SS000282,urination difficulty,C0241705,urination difficulty
+SS000283,Elevated testosterone,C2675018,elevated testosterone
+SS000284,bone pain,C0151825,bone pain
+SS000285,Hypermagnesemia,C1522135,Hypermagnesemia
+SS000286,Severe lactic acidosis,C1839436,Severe lactic acidosis
+SS000287,symptoms,C1457887,"symptoms of experimental colitis | acute phase symptoms | Esophageal symptoms | Symptom, NOS | Factor aggravating symptom | cold symptoms | absence of symptoms | Early onset of symptoms"
+SS000288,Trouble sleeping,C0037317,"trouble sleeping | disturbances, sleep"
+SS000289,bad dreams,C1636655,bad dreams
+SS000290,Facial swelling,C0151602,Facial swelling
+SS000291,Hospitalization 1,C3840878,Hospitalizations
+SS000292,perforation,C0549099,Rectal perforation | Perforation of the colon
+SS000293,transfers,C0728827,transfer of pathogenic microorganisms
+SS000294,hematochezia,C1321898,Hematochezia | hematochezia
+SS000295,rectal pain,C0034886,rectal pain
+SS000296,Pain with defecation,C0237326,pain with defecation
+SS000297,tenesmus,C0232726,tenesmus
+SS000298,anal pain,C0238637,spastic anal pain
+SS000299,lower abdominal pain,C0232495,lower abdominal pain
+SS000300,collapse,C2210463,collapse | Cardiovascular collapse
+SS000301,burning in mouth,C0877717,burning in the mouth
+SS000302,increased blood glucose,C0595877,increased blood glucose
+SS000303,generalized pruritus,C0475858,generalized pruritus | Generalized pruritus
+SS000304,respiratory distress,C0476273,respiratory distress | SYNDROME ADULT RESPIRATORY DISTRESS | DISTRESS RESPIRATORY
+SS000305,heart rate,C2041121,heart rate
+SS000306,Acute abdominal pain,C0000727,Acute abdominal pain
+SS000307,Gastrointestinal disturbance,C0232459,Gastrointestinal disturbance | Mild gastrointestinal disturbances | Gastrointestinal disturbances
+SS000308,tachypnea,C0231835,tachypnea
+SS000309,galactorrhea,C5200926,galactorrhea
+SS000310,Hyperkalemia,C5700154,Hyperkalemia
+SS000311,Effectiveness,C4553491,Reduced effectiveness of phenytoin
+SS000312,aftertaste,C1291736,Fishy aftertaste
+SS000313,no cognitive function,C2237374,impaired cognitive function
+SS000314,Prolonged QTc,C1969409,prolonged QTc
+SS000315,abnormal electrocardiogram,C0522055,abnormal electrocardiogram
+SS000316,nonspecific ST-T wave changes,C1112720,nonspecific ST-T wave changes
+SS000317,Hand tremors,C0239842,Hand tremors | tremor of hands
+SS000318,muscular fatigue,C0242979,muscular fatigue
+SS000319,Mastalgia,C0024902,Mastalgia | MASTODYNIA
+SS000320,No deep vein thrombosis,C3651001,deep vein thrombosis
+SS000321,respiratory symptoms,C0037090,Exacerbation of respiratory symptoms | respiratory signs symptoms
+SS000322,unrest,C0858854,psychomotor unrest | Unrest
+SS000323,mental status changes,C0856054,mental status changes
+SS000324,early satiety,C0239233,early satiety | EARLY SATIETY
+SS000325,energy levels,C0516979,lower energy levels
+SS000326,stomach cramps,C0344375,stomach cramps | Stomach Cramps
+SS000327,elevated alkaline phosphatase,C0151849,elevated alkaline phosphatase
+SS000328,feeding problems,C0232466,feeding problems
+SS000329,Appetite problem,C0566582,appetite problems
+SS000330,intermittent ataxia,C0741270,intermittent ataxia | Intermittent ataxia
+SS000331,burning pain,C0234230,"lip burning pain | burning pain | Pain, Burning"
+SS000332,gingival swelling,C0235324,gingival swelling
+SS000333,Widespread rash,C0497365,itchy widespread rash
+SS000334,severe sore throat,C2219654,Severe sore throat
+SS000335,choking,C2051649,easy choking
+SS000336,increase in blood pressure,C0497247,increase in blood pressure
+SS000337,suicidal ideation,C0424000,suicidal ideation
+SS000338,Self-injury,C0424366,self-injury
+SS000339,Predictable behavior,C0562452,unpredictable behavior
+SS000340,perimenopausal,C3839366,perimenopausal hot flashes
+SS000341,Hypercholesterolemia,C1522133,Paradoxical hypercholesterolemia
+SS000342,Eosinophilic esophagitis,C4703646,Eosinophilic esophagitis
+SS000343,hepatic nodules,C0745761,hepatic nodules
+SS000344,facial rash,C0239521,facial rash
+SS000345,gastrointestinal discomfort,C1096250,gastrointestinal discomfort | Gastrointestinal discomfort
+SS000346,auditory hallucinations,C0233762,visual and auditory hallucinations
+SS000347,psychotic symptoms,C0871189,psychotic symptoms
+SS000348,Psychotic features,C5436702,Mania with psychotic features
+SS000349,cold extremities,C0277925,cold extremities
+SS000350,insensitivity,C0237677,Elevated high-sensitivity C-reactive protein
+SS000351,acute respiratory distress,C0748355,acute respiratory distress syndrome | Acute respiratory distress syndrome
+SS000352,garlic breath,C0277981,garlic breath/body odor | Garlic breath
+SS000353,No growth retardation,C2678186,growth retardation
+SS000354,Kidney damage,C1408258,kidney damage
+SS000355,Abnormal,C0205161,Abnormal uterine bleeding
+SS000356,Loss of libido,C2981158,Loss of libido
+SS000357,lip swelling,C0240211,Painful lip swelling
+SS000358,increased prothrombin,C0151872,increased prothrombin time
+SS000359,Abdominal fullness,C0235318,Abdominal fullness | abdominal fullness
+SS000360,asthenia,C0004093,asthenia | Weakness of hand | Asthenia NOS
+SS000361,urinary urgency,C0085606,urinary urgency
+SS000362,Gastrointestinal fullness,C0858217,Gastrointestinal fullness
+SS000363,throat discomfort,C0242429,throat discomfort
+SS000364,Myoclonic jerks,C0027066,Myoclonic jerks
+SS000365,Skin irritation,C0152030,Skin irritation
+SS000366,Neutrophil leukocytosis,C4692647,neutrophil leukocytosis
+SS000367,Transient,C1550450,Transient GI problems
+SS000368,gastric reflux,C0558176,gastric reflux
+SS000369,Neutropenia,C0853697,Neutropenia
+SS000370,polydipsia,C0085602,polydipsia
+SS000371,polyuria,C0032617,polyuria
+SS000372,Impaired alertness,C1621860,impaired alertness
+SS000373,withdrawal symptoms,C0087169,benzodiazepine-like withdrawal symptoms | Withdrawal Symptoms
+SS000374,sensation,C0542538,sensation
+SS000375,genital burning,C1096300,genital burning
+SS000376,gastrointestinal problems,C0017187,gastrointestinal problems
+SS000377,gastrointestinal pain,C0687713,gastrointestinal pain | Gastrointestinal Pain
+SS000378,skin changes,C0421292,bone and skin changes
+SS000379,Mild sensorimotor neuropathy,C1837773,Severe sensorimotor neuropathy
+SS000380,ataxic,C0234366,ataxic signs
+SS000381,Kidney stone formation,C1820822,Increased oxalate kidney stone formation
+SS000382,Thirst,C0426590,Thirst
+SS000383,nausea/vomiting,C0027498,nausea/vomiting | vomiting and nausea
+SS000384,dark urine,C0426396,dark urine
+SS000385,nonproductive cough,C0850149,nonproductive cough
+SS000386,panic symptoms,C2945698,manic symptoms
+SS000387,loss of consciousness,C0041657,loss of consciousness
+SS000388,gastroesophageal reflux,C4317146,gastroesophageal reflux
+SS000389,Leukocytosis,C0750426,Leukocytosis
+SS000390,Anosmia,C0003126,Anosmia
+SS000391,Bad taste in mouth,C0578994,Bad taste in the mouth | bad taste in mouth
+SS000392,Fevers,C0015967,"Fevers | FEVER, LOW GRADE | FEVER HIGH (finding)"
+SS000393,nausea or abdominal pain,C0151263,nausea or abdominal pain
+SS000394,Symptoms of stress,C0521991,Symptoms of stress
+SS000395,weight,C0424653,decreased weight
+SS000396,"Seizures, myoclonic",C4317123,"Seizures, myoclonic"
+SS000397,manifestations oral,C0029166,manifestations oral
+SS000398,Toothaches,C0040460,Toothaches
+SS000399,Moderate pain (finding),C0278139,Moderate pain (finding)
+SS000400,muscular fasciculation,C0015644,muscular fasciculation
+SS000401,mydriasis,C0026961,mydriasis
+SS000402,Skin symptom,C0586407,Skin symptom
+SS000403,"Diarrhea and vomiting, symptom",C0474496,"Diarrhea and vomiting, symptom"
+SS000404,icterus,C0022346,Scleral icterus
+SS000405,Injection site pain,C0151828,Injection site pain
+SS000406,menstruation,C2129647,menstruation disturbances
+SS000407,"Nausea, vomiting and diarrhea",C0151791,"Nausea, vomiting and diarrhea"
+SS000408,hand burning sensation,C0239814,hand burning sensation
+SS000409,Swallowing symptoms (finding),C0426601,Swallowing symptoms (finding)
+SS000410,metrorrhagia,C2030274,metrorrhagia
+SS000411,Edema of hand,C0239819,Edema of hand
+SS000412,Parapareses,C0221166,"Parapareses, Tropical Spastic"
+SS000413,symptoms urinary,C0426359,symptoms urinary
+SS000414,hand pain,C0239833,HAND PAIN
+SS000415,braxton hicks contractions,C0233187,braxton hicks contractions
+SS000416,Maculopapule,C0332566,Maculopapule
+SS000417,Diarrhea in children,C3826452,Diarrhea in children
+SS000418,cluttering,C0009090,cluttering
+SS000419,Discomfort,C0234215,Actual Discomfort
+SS000420,upper respiratory symptom,C0749874,upper respiratory symptom
+SS000421,"Seizures, multiple types",C4015120,"Seizures, multiple types"
+SS000422,pain during injection,C1096717,pain during injection
+SS000423,Burning sensation of mucous membrane,C0521486,Burning sensation of mucous membrane

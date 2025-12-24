@@ -1,0 +1,536 @@
+DSI,Relation,D,Source,Interaction Rating,Source_Description
+DSI001441,interacts_with,D000000,MSKCC,,"Antidepressants/anxiolytics (tricyclics, MAOIs, and SSRIs) : Because 5-HTP can also raise serotonin levels, there is the theoretical potential for increased risk of side effects or toxicities. Larger clinical trials are needed to understand the clinical relevance of these risks."
+DSI001441,interacts_with,D000001,MSKCC,,Monamine oxdiase inhibitors : Case report of mania following use of an MAOI with 5-HTP in a patient without history of bipolar disorder (34) .
+DSI001441,interacts_with,D000002,MSKCC,,"Linezolid (Zyvox, an antibiotic MAOI) : Case report of interaction with 5-HTP causing serotonin syndrome (35) ."
+DSI001441,interacts_with,D000003,MSKCC,,"Carbidopa (Lodosyn, a dopamine promoter) : Case of scleroderma-like illness with combination therapy of carbidopa and 5-HTP (36) ."
+DSI007806,interacts_with,D000004,MSKCC,,
+DSI007806,interacts_with,D000005,MSKCC,,
+DSI007806,interacts_with,D000006,MSKCC,,
+DSI004810,interacts_with,D000007,MSKCC,,
+DSI007808,interacts_with,D000008,MSKCC,,Cytochrome P450 substrates: Aloe juice inhibited CYP3A4 and CYP2D6 and may affect the intracellular concentration of drugs metabolized by these enzymes (24) . Clinical relevance is not known.
+DSI007808,interacts_with,D000009,MSKCC,,Sevoflurane: Excessive intraoperative bleeding was reported in a patient after oral consumption of aloe vera tablets (12) .
+DSI000550,interacts_with,D000010,MSKCC,,
+DSI003084,interacts_with,D000011,MSKCC,,"Anticoagulants, antiplatelets : Although lab studies indicate possible inhibition of platelet aggregation (34) (35) , one study in rats suggests that andrographis extract does not interact with warfarin when used concomitantly (38) . Patients taking anticoagulant or antiplatelet medications should use caution and consult their treating physician if considering the use of andrographis products."
+DSI003084,interacts_with,D000012,MSKCC,,"Chemotherapy drugs : Andrographolides have been shown to have antioxidant effects (21) , which may interfere with the actions of some chemotherapy drugs."
+DSI003084,interacts_with,D000013,MSKCC,,"Blood pressure-lowering drugs : Lab studies indicate that andrographis may have additive hypotensive effects (32) . In healthy subjects, A. paniculata at the normal therapeutic dose for the common cold and respiratory tract infections modulated various clinical parameters, including transient reductions in blood pressure (55) ."
+DSI003084,interacts_with,D000014,MSKCC,,UDP-glucoronosyltransferase : Lab studies suggest andrographolide derivatives inhibit UGT2B7 and can increase the side effects of drugs metabolized by this enzyme (42) .
+DSI003084,interacts_with,D000015,MSKCC,,"Aminophylline: Andrographis inhibits CYP1A2, which is involved in metabolizing aminophylline, resulting in increased risk of side effects from this drug (43) ."
+DSI000066,interacts_with,D000016,MSKCC,,Antihypertensives: A small study showed that arginine could temporarily lower blood pressure in patients with diabetes (11) . It also has vasodilatory properties (20) . Therefore it may have additive hypotensive effects.
+DSI007810,interacts_with,D000011,MSKCC,,Anticoagulants: Ginkgo may have additive effects with blood thinning drugs while ginseng can antagonize their effects.
+DSI007810,interacts_with,D000010,MSKCC,,Antihypertensive and hypoglycemic drugs: L-arginine may have additive effects with antihypertensive and hypoglycemic drugs (9) (10) .
+DSI002299,interacts_with,D000017,MSKCC,,
+DSI002299,interacts_with,D000011,MSKCC,,
+DSI004693,interacts_with,D000018,MSKCC,,"Anticonvulsants, barbiturates, and benzodiazepines : Preclinical studies suggest that ashwagandha has sedative and GABAnergic properties, and may have additive effects (30) (49) . Clinical relevance has yet to be determined."
+DSI004693,interacts_with,D000019,MSKCC,,"Cytochrome P450 2B6 substrates: Ashwagandha inhibited CYP2B6 in vitro, and may affect the intracellular concentration of drugs metabolized by this enzyme (58) . Clinical relevance is yet to be determined."
+DSI004693,interacts_with,D000020,MSKCC,,"Cytochrome P450 3A4 substrates: Ashwagandha was found to be a moderate inducer of CYP3A4 in vitro, and can affect the intracellular levels of drugs metabolized by this enzyme (58) . Clinical relevance is not known."
+DSI003458,interacts_with,D000021,MSKCC,,"Immunosuppressants: Astragalus can antagonize the effects of immunosuppressants. In a patient with refractory nephrotic syndrome, concomitant use of herbal medicine granules containing astragalus was associated with nearly 50% reduction in tacrolimus concentration (74) ."
+DSI003458,interacts_with,D000011,MSKCC,,"Anticoagulants: Astragalus and its constituents have anticoagulant properties (52) , which may increase the risk of bleeding. Clinical significance is not known."
+DSI003458,interacts_with,D000022,MSKCC,,"Diuretics: In a small study involving healthy men, astragalus demonstrated natriuretic effects (8) and may therefore have additive effects with these medications."
+DSI003458,interacts_with,D000016,MSKCC,,Antihypertensive drugs: Astragalus extract can lower both systolic and diastolic blood pressure and may have additive effects with other antihypertensive drugs (38) . Clinical relevance is not known.
+DSI003458,interacts_with,D000023,MSKCC,,"P-glycoprotein substrates : Astragalus polysaccharides can inhibit P-glycoprotein efflux pump function. This may increase the cytotoxicity of chemotherapy drugs, including doxorubicin, etoposide, and vincristine (58) . Clinical relevance is not known."
+DSI003458,interacts_with,D000024,MSKCC,,Gemcitabine: Pretreatment with an astragalus extract was found to affect pharmacokinetics of gemcitabine in a murine model. Clinical relevance is not known (63) .
+DSI007812,interacts_with,D000025,MSKCC,,
+DSI007812,interacts_with,D000026,MSKCC,,
+DSI001097,interacts_with,D000027,MSKCC,,
+DSI001097,interacts_with,D000028,MSKCC,,
+DSI001097,interacts_with,D000029,MSKCC,,
+DSI001097,interacts_with,D000030,MSKCC,,
+DSI001097,interacts_with,D000013,MSKCC,,
+DSI000172,interacts_with,D000031,MSKCC,,
+DSI000196,interacts_with,D000011,MSKCC,,
+DSI000196,interacts_with,D000032,MSKCC,,
+DSI000196,interacts_with,D000033,MSKCC,,
+DSI000236,interacts_with,D000034,MSKCC,,Insulin: Bitter melon may have an additive effect when used concomitantly (8) .
+DSI000236,interacts_with,D000010,MSKCC,,Hypoglycemics: Bitter melon may have additive effects when used concomitantly (8) (34) .
+DSI000236,interacts_with,D000012,MSKCC,,Chemotherapy drugs: In vitro studies suggest bitter melon extracts may increase bioavailability and efficacy of certain chemotherapy agents (35) . Clinical significance has yet to be determined.
+DSI000209,interacts_with,D000035,MSKCC,,
+DSI000209,interacts_with,D000012,MSKCC,,
+DSI000209,interacts_with,D000036,MSKCC,,
+DSI007815,interacts_with,D000037,MSKCC,,"Amiodarone: In a murine model, bladder wrack decreased bioavailability of this drug which is used to treat arrhythmias (10) . Clinical relevance is not known."
+DSI005068,interacts_with,D000008,MSKCC,,"Cytochrome P450 substrates: Spirulina inhibits CYP 1A2 and 2E1, and may cause accumulation of drugs metabolized by these enzymes, thereby increasing the risk of their side effects (20) . Clinical relevance is not known."
+DSI002555,interacts_with,D000038,MSKCC,,
+DSI002555,interacts_with,D000011,MSKCC,,
+DSI002555,interacts_with,D000033,MSKCC,,
+DSI002365,interacts_with,D000039,MSKCC,,"OATP1B3 (an anion transporter): Both 11-keto-beta-boswellic acid (KBA) and 3-acetyl-11-keto-beta-boswellic acid (AKBA) modulated the activity of OATP1B3, in vitro (30) . Clinical relevance is not known."
+DSI002365,interacts_with,D000040,MSKCC,,"MRP2 (a multidrug resistant protein): Both 11-keto-beta-boswellic acid (KBA) and 3-acetyl-11-keto-beta-boswellic acid (AKBA) modulated the activity of MRP2, in vitro (30) . Clinical relevance is not known."
+DSI002365,interacts_with,D000041,MSKCC,,"P-Glycoprotein (P-Gp): A Boswellia extract and keto-boswellic acids inhibit the activity of P-Glycoprotein in vitro, and may affect the transport of drugs mediated by this protein (31) . Clinical significance has yet to be determined."
+DSI002365,interacts_with,D000017,MSKCC,,Anticoagulant and/or antiplatelet drugs : Boswellia extracts can inhibit platelet aggregation and may increase risk of bleeding when used with these drugs (34) . Clinical significance has yet to be determined.
+DSI000364,interacts_with,D000042,MSKCC,,
+DSI000364,interacts_with,D000011,MSKCC,,
+DSI004057,interacts_with,D000043,MSKCC,,
+DSI004057,interacts_with,D000044,MSKCC,,
+DSI000071,interacts_with,D000045,MSKCC,,Proton Pump Inhibitors: May significantly reduce calcium absorption (62) .
+DSI000071,interacts_with,D000046,MSKCC,,"Cardiac glycosides: Calcium may increase risk of cardiac arrhythmia, although this is based on intravenous calcium, early case reports, and animal models (64) ."
+DSI000071,interacts_with,D000047,MSKCC,,Quinolones: Calcium may reduce absorption of quinolones (65) .
+DSI000071,interacts_with,D000035,MSKCC,,Tamoxifen: Calcium may increase the risk of hypercalcemia (66) .
+DSI000071,interacts_with,D000048,MSKCC,,Tetracyclines: Calcium may reduce absorption of tetracyclines (67) .
+DSI000071,interacts_with,D000049,MSKCC,,Levothyroxine (to treat hypothyroidism): Taking calcium carbonate within 4 hours of this drug may decrease its absorption by nearly one-third (68) .
+DSI000071,interacts_with,D000050,MSKCC,,Estrogen therapy (for osteoporosis; positive interaction): Supplemental calcium and vitamin D may have additive benefits on bone health (28) .
+DSI000071,interacts_with,D000051,MSKCC,,"Iron, zinc, or magnesium: Calcium can compete or interfere with their absorption (48) (49) ."
+DSI001977,interacts_with,D000008,MSKCC,,"Cytochrome P450 substrates : Smoking cannabis induces CYP1A2, with additive effects when smoked together with tobacco, and can affect the intracellular concentration of drugs metabolized by this enzyme (43)"
+DSI001977,interacts_with,D000052,MSKCC,,"Immunotherapy (nivolumab): Combined use with cannabis was associated with a reduction in treatment response rates in patients with advanced melanoma, non-small-cell lung cancer, and renal clear cell carcinoma (observational study) (21) (46)"
+DSI001977,interacts_with,D000053,MSKCC,,Warfarin: THC and CBD both elevate international normalized ratio (INR) levels (45) (47) (61)
+DSI001977,interacts_with,D000054,MSKCC,,Fluoxetine: Case reports of mania resulting from co-administration of cannabis (48)
+DSI001977,interacts_with,D000055,MSKCC,,Disulfiram: Delirium and hypomania resulting from co-administration with cannabis (49) (50)
+DSI001977,interacts_with,D000056,MSKCC,,"Amphetamines, cocaine, atropine and sympathomimetic agents : Cardiotoxicity may occur with cannabis via additive hypertension and tachycardia (51) (52)"
+DSI001977,interacts_with,D000057,MSKCC,,Sedatives or hypnotics : Sedation and significant pharmacodynamic interactions when taken with cannabis via potentiation of central effects (53)
+DSI001977,interacts_with,D000023,MSKCC,,P-glycoprotein substrates : CBD inhibits P-glycoprotein and may influence metabolism of certain drugs (54) . Clinical relevance is not known.
+DSI001977,interacts_with,D000058,MSKCC,,Clobazam : CBD increased clobazam levels in epileptic children (55)
+DSI001977,interacts_with,D000059,MSKCC,,Buprenorphine: A retrospective study found that cannabis use decreased the formation of norbuprenorphine and elevated buprenorphine and norbuprenorphine levels in liver healthy individuals on opioid maintenance therapy substituted with buprenorphine. This interaction may lead to increased or altered opioid activity and risk of intoxication (66) .
+DSI001977,interacts_with,D000060,MSKCC,,Citalopram/Escitalopram: CBD significantly elevated citalopram plasma concentrations in patients taking citalopram or escitalopram. But it is unclear whether this also increased SSRI-mediated adverse effects (70) .
+DSI000389,interacts_with,D000061,MSKCC,,ACE inhibitors: Topical capsaicin induced cough in a patient taking ACE inhibitors (33) .
+DSI001859,interacts_with,D000053,MSKCC,,
+DSI002549,interacts_with,D000041,MSKCC,,
+DSI000961,interacts_with,D000016,MSKCC,,
+DSI000961,interacts_with,D000062,MSKCC,,
+DSI005450,interacts_with,D000021,MSKCC,,"Immunosuppressants (cyclosporin): Concurrent capsaicin should be avoided in transplant patients to minimize risk of kidney or liver toxicities as well as neurotoxicity. In animal models, chronic high-dose capsaicin use increased cyclosporin bioavailability (22) ."
+DSI005450,interacts_with,D000016,MSKCC,,Antihypertensives: Capsaicin may affect their actions (21) or increase incidence of cough associated with ACE inhibitors (26) .
+DSI005450,interacts_with,D000017,MSKCC,,Antiplatelet drugs: Animal models indicate capsaicin has antiplatelet effects (27) . Clinical relevance has yet to be determined.
+DSI005450,interacts_with,D000063,MSKCC,,Theophylline: Animal models indicate that concurrent capsaicin administration may increase absorption (28) . Clinical relevance has yet to be determined.
+DSI005450,interacts_with,D000064,MSKCC,,"Oral coadministration of other drugs: Capsaicin causes mucosal vasodilation, and may thereby alter the uptake of other drugs (22) ."
+DSI004703,interacts_with,D000011,MSKCC,,"Antiplatelet or anticoagulant drugs: Chaga extract inhibited platelet aggregation in a murine model (2) . It may also have synergistic effects when used with anticoagulant/antiplatelet drugs, but clinical relevance is not known."
+DSI004703,interacts_with,D000010,MSKCC,,"Hypoglycemic agents: In vitro, chaga had additive effects in lowering blood sugar levels (15) . Clinical significance is yet unknown."
+DSI004236,interacts_with,D000011,MSKCC,,
+DSI004236,interacts_with,D000057,MSKCC,,
+DSI004236,interacts_with,D000065,MSKCC,,
+DSI002944,interacts_with,D000066,MSKCC,,
+DSI002944,interacts_with,D000067,MSKCC,,
+DSI002944,interacts_with,D000068,MSKCC,,
+DSI005225,interacts_with,D000069,MSKCC,,"Antihypertensive medications: Chia supplementation may have additive effects, as the use of chia flour reduced blood pressure in both treated and untreated hypertensive individuals (13) ."
+DSI003014,interacts_with,D000053,MSKCC,,
+DSI000061,interacts_with,D000030,MSKCC,,
+DSI000061,interacts_with,D000049,MSKCC,,
+DSI002945,interacts_with,D000008,MSKCC,,
+DSI002945,interacts_with,D000041,MSKCC,,
+DSI002597,interacts_with,D000070,MSKCC,,"Statins: When taken along with statins, cinnamon has been reported to cause hepatitis (35) ."
+DSI002597,interacts_with,D000071,MSKCC,,Pioglitazone: Cinnamon enhanced bioavailability upon concomitant use in preclinical studies (45) .
+DSI000553,interacts_with,D000070,MSKCC,,
+DSI000553,interacts_with,D000053,MSKCC,,
+DSI000553,interacts_with,D000063,MSKCC,,
+DSI007825,interacts_with,D000072,MSKCC,,
+DSI007825,interacts_with,D000073,MSKCC,,
+DSI005305,interacts_with,D000010,MSKCC,,
+DSI005305,interacts_with,D000011,MSKCC,,
+DSI002589,interacts_with,D000028,MSKCC,,
+DSI002589,interacts_with,D000029,MSKCC,,
+DSI002589,interacts_with,D000053,MSKCC,,
+DSI002589,interacts_with,D000074,MSKCC,,
+DSI002589,interacts_with,D000008,MSKCC,,
+DSI003184,interacts_with,D000022,MSKCC,,Diuretics: Animal and human studies suggest dandelion may have additive effects due to its diuretic activity (10) (23) .
+DSI003184,interacts_with,D000010,MSKCC,,Hypoglycemics: In vitro and in vivo studies suggest dandelion may have additive effects due to its hypoglycemic property (23) .
+DSI003184,interacts_with,D000008,MSKCC,,"Cytochrome P450 (CYP) 1A2, 3A4 substrates: In animal and in vitro studies respectively, dandelion inhibited CYP1A2 (28) and CYP3A4 (20) activities, which may result in altered blood levels of substrate drugs. In addition, a case report of toxic blood levels of immunosuppressive agents was attributed to consumption of tea containing dandelion (19) ."
+DSI003184,interacts_with,D000075,MSKCC,,UDP-glucuronosyl transferase (UGT) substrates: Animal studies suggest dandelion induces UGT activity (28) and may increase blood levels of substrate drugs.
+DSI005633,interacts_with,D000076,MSKCC,,
+DSI005633,interacts_with,D000077,MSKCC,,
+DSI005720,interacts_with,D000008,MSKCC,,"Cytochrome P450 enzymes: Devil’s claw root can inhibit CYP1A2/2C8/2C9/2C19/2D6 and 3A4, and may interact with substances metabolized by these enzymes (8) . But conflicting data suggest that the interactions are not clinically relevant (13) ."
+DSI005720,interacts_with,D000041,MSKCC,,"P-Glycoprotein (P-gP): Devil’s claw modulates both the activity and expression of P-Gp, and may affect the transport of drugs mediated by this protein (14) . Clinical significance is not known."
+DSI007828,interacts_with,D000078,MSKCC,,
+DSI007828,interacts_with,D000079,MSKCC,,
+DSI007828,interacts_with,D000080,MSKCC,,
+DSI007828,interacts_with,D000081,MSKCC,,
+DSI001283,interacts_with,D000035,MSKCC,,
+DSI005678,interacts_with,D000011,MSKCC,,
+DSI005678,interacts_with,D000008,MSKCC,,
+DSI005678,interacts_with,D000061,MSKCC,,
+DSI005678,interacts_with,D000082,MSKCC,,
+DSI000793,interacts_with,D000008,MSKCC,,
+DSI000793,interacts_with,D000083,MSKCC,,
+DSI000793,interacts_with,D000035,MSKCC,,
+DSI000793,interacts_with,D000084,MSKCC,,
+DSI000793,interacts_with,D000085,MSKCC,,
+DSI000793,interacts_with,D000023,MSKCC,,
+DSI000793,interacts_with,D000086,MSKCC,,
+DSI000793,interacts_with,D000021,MSKCC,,
+DSI001310,interacts_with,D000087,MSKCC,,
+DSI001310,interacts_with,D000022,MSKCC,,
+DSI001310,interacts_with,D000088,MSKCC,,
+DSI003776,interacts_with,D000008,MSKCC,,"Cytochrome P450 substrates: Ellagic acid inhibits cytochrome P450  2A2, 3A1, 2C11, 2B1, 2B2 and 2C6, and can affect the intracellular concentration of drugs metabolized by these enzymes (14) (15) . Clinical relevance is not known."
+DSI002496,interacts_with,D000089,MSKCC,,"Clopidogrel: When used concomitantly, E. officinalis extract was found to increase the antiplatelet activity in a study of patients with Type-2 diabetes (22) ."
+DSI005737,interacts_with,D000090,MSKCC,,
+DSI005737,interacts_with,D000063,MSKCC,,
+DSI005737,interacts_with,D000091,MSKCC,,
+DSI005737,interacts_with,D000092,MSKCC,,
+DSI005770,interacts_with,D000008,MSKCC,,Cytochrome P450 substrates: Prolonged use of Epimedium can induce CYP3A4 through the activation of pregnane X receptor (22) . Clinical relevance is not known.
+DSI005770,interacts_with,D000007,MSKCC,,"Aromatase Inhibitors: Icariin enhances the action of aromatase (1) . This may reduce the effect of aromatase inhibitors, like anastrozole, exemestane, and letrozole. Clinical relevance is not known."
+DSI002390,interacts_with,D000011,MSKCC,,
+DSI002390,interacts_with,D000013,MSKCC,,
+DSI002390,interacts_with,D000062,MSKCC,,
+DSI000068,interacts_with,D000053,MSKCC,,Warfarin: Case reports indicate that fenugreek may potentiate the effects of warfarin (28) (29) .
+DSI000068,interacts_with,D000093,MSKCC,,SSRI antidepressants: A case report suggests supplemental fenugreek may increase the risk for serotonin syndrome (47) .
+DSI000068,interacts_with,D000094,MSKCC,,Cyclophosphamide: Animal studies suggest fenugreek may interfere with the cytotoxic effects of cyclophosphamide (25) . Clinical relevance has yet to be determined.
+DSI000068,interacts_with,D000063,MSKCC,,Theophylline: Fenugreek altered theophylline bioavailability in an animal model (32) . Clinical relevance has yet to be determined.
+DSI005929,interacts_with,D000020,MSKCC,,
+DSI005929,interacts_with,D000011,MSKCC,,
+DSI000014,interacts_with,D000018,MSKCC,,Anticonvulsants: Concurrent use of folic acid may antagonize the effects of certain anticonvulsants (29) .
+DSI000014,interacts_with,D000095,MSKCC,,Black or green tea : Reduced absorption of folic acid in a study of healthy volunteers (64) .
+DSI000014,interacts_with,D000096,MSKCC,,Methotrexate: Folic acid can decrease the efficacy of methotrexate used to treat cancer (24) and psoriasis (25) .
+DSI000014,interacts_with,D000097,MSKCC,,"Capecitabine: Concurrent use of folic acid at dosage higher than 2000 mg/m2 (maximum tolerated dose) resulted in severe adverse reactions. In one case, capecitabine dose had to be reduced along with discontinuing lipid-lowering agents. In the second case, both capecitabine and folic acid were discontinued, and capecitabine was re-administered after 4 weeks (94) ."
+DSI005944,interacts_with,D000016,MSKCC,,
+DSI005944,interacts_with,D000011,MSKCC,,
+DSI002212,interacts_with,D000011,MSKCC,,
+DSI000215,interacts_with,D000034,MSKCC,,
+DSI000215,interacts_with,D000000,MSKCC,,
+DSI000215,interacts_with,D000098,MSKCC,,
+DSI000215,interacts_with,D000013,MSKCC,,
+DSI000045,interacts_with,D000053,MSKCC,,Warfarin: Anticoagulant activity may be enhanced due to increased fibrinolytic activity and diminished human platelet aggregation (17) (49) .
+DSI000045,interacts_with,D000099,MSKCC,,"Protease inhibitors (darunavir, saquinavir ): In 2 cases of HIV-infected patients, significant interactions between garlic and darunavir resulted in sub-therapeutic DRV plasma concentrations and viral rebound (71) . In one case the patient ingested 15 garlic cloves per week, while in the other the patient could not quantify the amount, but said it was significant. In both patients, drug effectiveness eventually returned with cessation of garlic. In healthy volunteers, garlic supplements with the rough equivalent of two 4-g cloves daily significantly decreased mean serum concentration levels, peak levels by 54%, and trough levels by 49%, which can cause therapeutic failure (18) ."
+DSI000045,interacts_with,D000034,MSKCC,,Insulin: Dose of insulin may require adjustment due to hypoglycemic effects of garlic exhibited in animal studies (39) .
+DSI000045,interacts_with,D000023,MSKCC,,"P-Glycoprotein substrates: In healthy volunteers, garlic extract induced P-glycoprotein and can interfere with the metabolism of certain drugs (34) ."
+DSI007830,interacts_with,D000035,MSKCC,,
+DSI003104,interacts_with,D000033,MSKCC,,NSAIDs: Ginger may increase bleeding risk with concomitant use of drugs such as diclofenac or ibuprofen (26) .
+DSI003104,interacts_with,D000011,MSKCC,,"Anticoagulants / antiplatelets: Because ginger can inhibit thromboxane formation and platelet aggregation, simultaneous use with anticoagulants may increase bleeding risk (51) , although a systematic review determined that current evidence is inconclusive. Further study is warranted (57) ."
+DSI003104,interacts_with,D000010,MSKCC,,Hypoglycemics / insulin: Ginger may cause additive reductions in blood glucose (7) . Clinical relevance is not known.
+DSI003104,interacts_with,D000028,MSKCC,,Tacrolimus: Pretreatment with ginger increased plasma levels of tacrolimus (52) . Clinical relevance is not known.
+DSI003104,interacts_with,D000065,MSKCC,,Cyclosporine: Concomitant ginger use resulted in decreased blood concentrations of cyclosporine in vivo (54) . Clinical relevance is not known.
+DSI003519,interacts_with,D000008,MSKCC,,"Cytochrome P450 substrates: Laboratory studies and a few case reports suggest ginkgo can inhibit and induce the CYP450 1A2, 2D6, and 3A4 enzymes, but data are conflicting (26) (27) (40) (41) (42) (43) . Clinical relevance has yet to be determined."
+DSI003519,interacts_with,D000023,MSKCC,,"P-glycoprotein substrates: In healthy volunteers, ginkgo inhibits P-glycoprotein and may interfere with drugs that are transported by P-glycoprotein (44) ."
+DSI003519,interacts_with,D000074,MSKCC,,"UGT (Uridine 5’-diphospho-glucuronosyltransferase) substrates: In vitro, ginkgo modulates UGT enzymes and may increase the side effects of drugs metabolized by them (45) . Clinical relevance has yet to be determined."
+DSI003519,interacts_with,D000011,MSKCC,,Anticoagulants / Antiplatelets: Human studies and case reports indicate that ginkgo may induce or prolong bleeding time (36) (47) .
+DSI003519,interacts_with,D000033,MSKCC,,Nonsteroidal anti-inflammatory drugs (NSAIDS): Adverse event reports indicate that ginkgo can have additive anticoagulant/antiplatelet effects (48) .
+DSI003519,interacts_with,D000100,MSKCC,,Antipsychotics / Prochlorperazine: Case reports suggest ginkgo may cause seizures when combined with medications that lower the seizure threshold (37) .
+DSI003519,interacts_with,D000034,MSKCC,,Insulin: Laboratory and human studies suggest ginkgo can alter insulin secretion and affect blood glucose levels (49) (50) .
+DSI003519,interacts_with,D000101,MSKCC,,Trazodone: Ginkgo extract was associated with coma in a patient with Alzheimer’s disease who was also taking trazodone (47) .
+DSI003519,interacts_with,D000102,MSKCC,,Efavirenz: Case reports suggest ginkgo may inhibit the effects of this drug (43) (51) .
+DSI003519,interacts_with,D000103,MSKCC,,Midazolam: A study in healthy subjects suggests ginkgo may decrease serum concentrations (52) .
+DSI003519,interacts_with,D000076,MSKCC,,Amlodipine: Animal studies suggest that a multiherbal formula containing ginkgo could inhibit the metabolism of amlodipine (53) . Clinical relevance has yet to be determined.
+DSI003519,interacts_with,D000028,MSKCC,,Tacrolimus: Concurrent use of ginkgo inhibited metabolism of tacrolimus in a preclinical study. Clinical relevance is not known (60) .
+DSI000074,interacts_with,D000053,MSKCC,,
+DSI000074,interacts_with,D000020,MSKCC,,
+DSI000074,interacts_with,D000030,MSKCC,,
+DSI000074,interacts_with,D000082,MSKCC,,
+DSI000074,interacts_with,D000011,MSKCC,,
+DSI000074,interacts_with,D000104,MSKCC,,
+DSI000074,interacts_with,D000105,MSKCC,,
+DSI006073,interacts_with,D000020,MSKCC,,
+DSI000007,interacts_with,D000053,MSKCC,,"Warfarin: Although more information is needed to define this interaction, glucosamine-chondroitin may potentiate warfarin effects and increase INR levels (22) ."
+DSI000007,interacts_with,D000011,MSKCC,,Anticoagulants/Antiplatelets: Use of glucosamine may inhibit platelet aggregation (23) .
+DSI000158,interacts_with,D000106,MSKCC,,
+DSI000158,interacts_with,D000096,MSKCC,,
+DSI006060,interacts_with,D000027,MSKCC,,
+DSI006060,interacts_with,D000107,MSKCC,,
+DSI004644,interacts_with,D000011,MSKCC,,"Anticoagulants / antiplatelets: In vitro, grape seed has antiplatelet activity, and may increase the risk of adverse effects of these drugs (1) (19) . Clinical relevance has yet to be determined."
+DSI004644,interacts_with,D000020,MSKCC,,"CYP3A4 substrates: In vitro, GSE inhibits CYP3A4 and may affect the intracellular concentration of drugs metabolized by this enzyme (18) . Clinical relevance has yet to be determined."
+DSI001261,interacts_with,D000087,MSKCC,,
+DSI001261,interacts_with,D000016,MSKCC,,
+DSI000063,interacts_with,D000017,MSKCC,,
+DSI000063,interacts_with,D000037,MSKCC,,
+DSI006070,interacts_with,D000020,MSKCC,,
+DSI004616,interacts_with,D000011,MSKCC,,"Antiplatelets, anticoagulants: An in vitro study suggests hawthorn flowers may inhibit thromboxane A2 biosynthesis, which may increase the side effects of these drugs. Although clinical relevance has yet to be determined, patients taking heart failure medications should not use hawthorn without being closely monitored by the treating physician (30) (33) ."
+DSI004616,interacts_with,D000091,MSKCC,,"Digoxin: In vitro data suggest hawthorn contains alkaloids that are structurally similar to digoxin and may interfere with its action (16) . However, hawthorn was safely coadministered at a specified dose in a small randomized, crossover trial of healthy volunteers (34) . As clinical relevance has yet to be determined, any use of this supplement should be under the guidance of the treating physician."
+DSI004616,interacts_with,D000020,MSKCC,,CYP3A4 substrates: In vitro studies suggest hawthorn may affect the metabolism of these drugs at it induces CYP3A4 by activating pregnane X receptor (19) . Clinical relevance has yet to be determined.
+DSI007833,interacts_with,D000001,MSKCC,,
+DSI007834,interacts_with,D000060,MSKCC,,
+DSI006232,interacts_with,D000020,MSKCC,,
+DSI006181,interacts_with,D000008,MSKCC,,
+DSI006181,interacts_with,D000108,MSKCC,,
+DSI006225,interacts_with,D000011,MSKCC,,"Anticoagulants / antiplatelets: Horse chestnut may have additive effects due to aesculin, a hydroxycoumarin (9) ."
+DSI007835,interacts_with,D000109,MSKCC,,
+DSI007835,interacts_with,D000011,MSKCC,,
+DSI000756,interacts_with,D000110,MSKCC,,
+DSI000756,interacts_with,D000111,MSKCC,,
+DSI000756,interacts_with,D000112,MSKCC,,
+DSI007838,interacts_with,D000013,MSKCC,,
+DSI003257,interacts_with,D000113,MSKCC,,Cytochrome P450 1A2 substrates: Laboratory studies suggest I3C induces CYP 1A2 (14) (62) . Clinical relevance has yet to be determined.
+DSI000882,interacts_with,D000114,MSKCC,,
+DSI000882,interacts_with,D000011,MSKCC,,
+DSI001172,interacts_with,D000010,MSKCC,,Hypoglycemic agents: IPT may potentiate their effects.
+DSI000660,interacts_with,D000087,MSKCC,,
+DSI003545,interacts_with,D000013,MSKCC,,
+DSI007839,interacts_with,D000012,MSKCC,,
+DSI006361,interacts_with,D000115,MSKCC,,
+DSI006361,interacts_with,D000116,MSKCC,,
+DSI006361,interacts_with,D000057,MSKCC,,
+DSI006361,interacts_with,D000117,MSKCC,,
+DSI006345,interacts_with,D000023,MSKCC,,"P-glycoprotein substrates: Mitragynine inhibits P-gp in vitro, and concurrent administration with psychoactive drugs that are P-gp substrates may cause significant toxicity (52) ."
+DSI003263,interacts_with,D000035,MSKCC,,"Tamoxifen: Human and animal studies suggest that kudzu has some estrogenic activity (5) (10) (11) . Therefore, it may antagonize the effects of tamoxifen, although clinical relevance has yet to be determined."
+DSI003263,interacts_with,D000096,MSKCC,,"Methotrexate: In animal models, coadministration of a root decoction of kudzu reduced the elimination of methotrexate, resulting in increased methotrexate levels (17) ."
+DSI003263,interacts_with,D000087,MSKCC,,Antidiabetic drugs: Animal models suggest puerarin also has antihyperglycemic effects (14) . Clinical relevance has yet to be determined.
+DSI003263,interacts_with,D000118,MSKCC,,"CYP2D6 substrate drugs: In vitro, puerarin inhibited activity of CYP2D6 and can alter the metabolism of these drugs (15) . Clinical relevance has yet to be determined."
+DSI003263,interacts_with,D000113,MSKCC,,"CYP1A2 substrate drugs: In vitro, puerarin induced CYP1A2 and may affect the metabolism of some of these drugs (15) . Clinical relevance has yet to be determined."
+DSI003389,interacts_with,D000057,MSKCC,,
+DSI003389,interacts_with,D000119,MSKCC,,
+DSI006375,interacts_with,D000120,MSKCC,,"Glutathione-S-transferase (GST) drugs: Citral, found in lemongrass essential oil, was shown to induce GST (9) ."
+DSI006405,interacts_with,D000121,MSKCC,,
+DSI000230,interacts_with,D000087,MSKCC,,Insulin and other antidiabetic medications: Leucine can stimulate insulin secretion and may have additive hypoglycemic effects (8) (43) .
+DSI000230,interacts_with,D000122,MSKCC,,Vitamins B3 and B6: Leucine can interfere with synthesis of these vitamins (9) (10) .
+DSI000230,interacts_with,D000001,MSKCC,,PDE5 inhibitors (sildenafil): Animal models indicate leucine may have synergistic effects (40) . Clinical relevance is not known.
+DSI004181,interacts_with,D000046,MSKCC,,Cardiac glycosides: Licorice may potentiate toxicity (24) .
+DSI004181,interacts_with,D000022,MSKCC,,Diuretics : Licorice may increase the risk of hypokalemia (17) (18) .
+DSI004181,interacts_with,D000034,MSKCC,,Insulin: Licorice may increase insulin sensitivity (38) . Clinical relevance is not known.
+DSI004181,interacts_with,D000011,MSKCC,,Anticoagulants: Licorice may increase the metabolism and clearance of warfarin (19) . Clinical relevance is not known.
+DSI004181,interacts_with,D000065,MSKCC,,Cyclosporine: Licorice greatly reduced the oral bioavailability of cyclosporine by activating P-gp and CYP3A4 (46) . Clinical relevance is not known.
+DSI004181,interacts_with,D000123,MSKCC,,Cortisol acetate: Licorice increased cortisol availability in patients with Addison’s disease in the hours following oral administration of cortisone acetate (47) .
+DSI004181,interacts_with,D000107,MSKCC,,"Metformin: Pre-administration of licorice juice reduced the efficacy of metformin, in a rat model (58) . The clinical relevance has yet to be determined."
+DSI004181,interacts_with,D000016,MSKCC,,"Antihypertensives: Because of its hypertensive effects, licorice may interfere with antihypertensive medications (66) ."
+DSI004181,interacts_with,D000001,MSKCC,,MAO-inhibitors: Licorice may potentiate activity of MAOIs. Clinical relevance is not known (37) .
+DSI004181,interacts_with,D000023,MSKCC,,"P-glycoprotein substrates: Licorice inhibited P-gp, resulting in increased intracellular concentration of the chemotherapy agent daunorubicin, which is a substrate of P-gp (34) . Clinical relevance is not known."
+DSI004181,interacts_with,D000124,MSKCC,,Phenprocoumon: Licorice use resulted in a sudden drop in INR values following an ischemic stroke in a 92-year-old female patient being treated with phenprocouman for stroke prevention. Her symptoms improved after continued treatment with phenprocoumon together with physio- and speech therapies (79) .
+DSI001336,interacts_with,D000125,MSKCC,,
+DSI007841,interacts_with,D000012,MSKCC,,
+DSI006373,interacts_with,D000053,MSKCC,,
+DSI006373,interacts_with,D000020,MSKCC,,
+DSI004652,interacts_with,D000126,MSKCC,,
+DSI000161,interacts_with,D000127,MSKCC,,
+DSI000161,interacts_with,D000128,MSKCC,,
+DSI000161,interacts_with,D000011,MSKCC,,
+DSI000161,interacts_with,D000087,MSKCC,,
+DSI000161,interacts_with,D000129,MSKCC,,
+DSI000161,interacts_with,D000130,MSKCC,,
+DSI000161,interacts_with,D000131,MSKCC,,
+DSI000161,interacts_with,D000132,MSKCC,,
+DSI000161,interacts_with,D000133,MSKCC,,
+DSI000161,interacts_with,D000111,MSKCC,,
+DSI000161,interacts_with,D000134,MSKCC,,
+DSI000161,interacts_with,D000135,MSKCC,,
+DSI000161,interacts_with,D000091,MSKCC,,
+DSI000161,interacts_with,D000022,MSKCC,,
+DSI000161,interacts_with,D000136,MSKCC,,
+DSI000161,interacts_with,D000033,MSKCC,,
+DSI000161,interacts_with,D000137,MSKCC,,
+DSI000161,interacts_with,D000138,MSKCC,,
+DSI000811,interacts_with,D000139,MSKCC,,"UDP-glucuronosyltransferase: Honokiol inhibited UGT1A9 in vitro, suggesting it may interfere with activities of drugs metabolized by this enzyme (41) . Clinical relevance is not known."
+DSI000811,interacts_with,D000023,MSKCC,,P-Glycoprotein substrates: Honokiol downregulates P-gp expression (42) and may interfere with the metabolism of certain drugs. Clinical relevance is not known.
+DSI000811,interacts_with,D000017,MSKCC,,"Antiplatelet agents: In animal studies, magnolol demonstrated antiplatelet activities (46) and may therefore increase bleeding risk when used with these drugs. Clinical relevance is not known."
+DSI000811,interacts_with,D000115,MSKCC,,Benzodiazepines: Magnolia bark extract and honokiol may increase the effects of these medications (47) . Clinical relevance is not known
+DSI007844,interacts_with,D000053,MSKCC,,
+DSI007844,interacts_with,D000010,MSKCC,,
+DSI001312,interacts_with,D000133,MSKCC,,"Calcineurin inhibitors (cyclosporine, tacrolimus): Isogarcinol isolated from Garcinia mangostana inhibits calcineurin. It may have additive immunosuppressant effects when used with related drugs. Clinical relevance is not known."
+DSI001312,interacts_with,D000008,MSKCC,,"Cytochrome P450 substrates: Mangosteen inhibits CYP1A1, CYP1A2, CYP2E1 and CYP3A11, and can affect the intracellular concentration of drugs metabolized by these enzymes (25) . Gartanin, a constituent of mangosteen, down-regulated expression CYP2C9 and CYP2D6 and up-regulated expression of CYP2D6 (52) . Clinical significance of these interactions is not known."
+DSI006641,interacts_with,D000000,MSKCC,,
+DSI001908,interacts_with,D000080,MSKCC,,
+DSI001908,interacts_with,D000113,MSKCC,,
+DSI001908,interacts_with,D000011,MSKCC,,
+DSI001908,interacts_with,D000140,MSKCC,,
+DSI006563,interacts_with,D000020,MSKCC,,"Cytochrome P450 3A4 substrates: Milk thistle inhibits cytochrome P450 3A4 (4) and can affect the intracellular concentration of drugs metabolized by this enzyme. However, conflicting data indicate no such effects (13) (14) (38) . In another study, consumption of milk thistle did not reduce levels of indinavir, an AIDS drug (15) ."
+DSI006563,interacts_with,D000074,MSKCC,,UGT (Uridine 5’-diphospho-glucuronosyltransferase) substrates: Milk thistle modulates UGT enzymes in vitro and can increase the side effects of drugs metabolized by them (26) (57) .
+DSI006563,interacts_with,D000141,MSKCC,,"Sirolimus: Milk thistle may decrease clearance. Monitor therapy especially when combined with nivolumab, which may interfere with the potential to help prevent rejection of donor kidney in transplant patients (44) (45) ."
+DSI006563,interacts_with,D000142,MSKCC,,Haloperidol or Risperidone: 7 cases of pancreatitis were reported following concomitant use of milk thistle (49)
+DSI006563,interacts_with,D000143,MSKCC,,Aripiprazole: A case of hepatotoxicity was reported with combined use of milk thistle (49) .
+DSI006563,interacts_with,D000053,MSKCC,,Warfarin: Concurrent use of a liver cleanse supplement which contained milk thistle led to an increase in INR from 2.64 to 4.12 in a man on warfarin therapy for mitral valve replacement. His INR normalized after stopping the supplement (52) .
+DSI003894,interacts_with,D000020,MSKCC,,
+DSI003894,interacts_with,D000053,MSKCC,,
+DSI000282,interacts_with,D000008,MSKCC,,"Cytochrome P450 substrates, including CYP3A4: In preclinical models, moringa increased the bioavailability of rifampin (34) and inhibited CYP3A4 (35) . Clinical relevance has yet to be determined."
+DSI000282,interacts_with,D000144,MSKCC,,"Sitagliptin: In an animal model, chronic co-administration with moringa decreased antihyperglycemic effects of sitagliptin (47) . Clinical relevance has yet to be determined."
+DSI002722,interacts_with,D000053,MSKCC,,
+DSI000192,interacts_with,D000145,MSKCC,,
+DSI000192,interacts_with,D000000,MSKCC,,
+DSI006707,interacts_with,D000032,MSKCC,,Aspirin: Nattokinase may increase the risk of intracerebral hemorrhage (14) .
+DSI006707,interacts_with,D000146,MSKCC,,"Anticoagulant/antiplatelet/fibrinolytic drugs: Theoretically, nattokinase may increase the risk of bleeding. In a small study of healthy young men, enhanced fibrinolysis and antithrombosis after a single-dose of oral nattokinase occurred, although effects in this group were deemed to be within normal range (17) . Lab studies indicate nattokinase is a heparin-binding protein with a binding affinity of ~250 nM and the interaction is chain-length dependent. It also interfered in heparin interactions with antithrombin and fibroblast growth factors (18) ."
+DSI006707,interacts_with,D000053,MSKCC,,"Warfarin: Nattō is rich in vitamin K. In addition, Bacillus subtilis bacteria in nattō continue synthesizing vitamin K in the intestine following consumption, which can reduce the effects of warfarin (15) ."
+DSI006689,interacts_with,D000008,MSKCC,,
+DSI000076,interacts_with,D000022,MSKCC,,Diuretics: Theoretically nettle may have an additive effect due to its diuretic activity (19) . Clinical relevance has yet to be determined.
+DSI000076,interacts_with,D000016,MSKCC,,Hypotensives: Animal studies suggest nettle has hypotensive action and may enhance effects of hypotensive drugs (19) . Clinical relevance has yet to be determined.
+DSI000016,interacts_with,D000147,MSKCC,,Carbamazepine: Increased levels of this drug have been reported in patients who also received nicotinamide (20) .
+DSI000284,interacts_with,D000008,MSKCC,,Cytochrome P450 substrates: Nigella sativa inhibits CYP2D6 and CYP3A4 and can affect the intracellular concentration of drugs metabolized by these enzymes (24) . Clinical relevance is not known.
+DSI000284,interacts_with,D000053,MSKCC,,Warfarin: Thymoquinone was shown to inhibit warfarin activity. Clinical significance is not known (48) .
+DSI006721,interacts_with,D000148,MSKCC,,
+DSI006721,interacts_with,D000149,MSKCC,,
+DSI006721,interacts_with,D000061,MSKCC,,
+DSI006721,interacts_with,D000013,MSKCC,,
+DSI006721,interacts_with,D000074,MSKCC,,
+DSI007849,interacts_with,D000091,MSKCC,,"Digoxin: Theoretically, cardiac glycosides in Nerium oleander may have an additive effect with digoxin, causing toxicity."
+DSI007849,interacts_with,D000023,MSKCC,,P-glycoprotein (P-gp) substrates: Oleander leaf extract inhibits P-gp and may increase the blood levels of substrate drugs. (8)
+DSI003616,interacts_with,D000016,MSKCC,,
+DSI003616,interacts_with,D000087,MSKCC,,
+DSI000049,interacts_with,D000053,MSKCC,,Warfarin: Elevated INR was reported following use of fish oil supplements (2 g/day). INR decreased after reducing supplement intake (34) . High dose omega-3 supplements have been associated with subdural hematoma [6g/day] requiring craniotomy (63) ; Irreversible warfarin-induced coagulopathy was reported following blunt head trauma (64) .
+DSI000049,interacts_with,D000150,MSKCC,,Glucocorticoids: Omega-3 supplements potentiated some adverse effects of glucocorticoids in a murine model. Clinical relevance is not known (46) .
+DSI000049,interacts_with,D000151,MSKCC,,Pazopanib: Concurrent use of an oral nutritional supplement enriched with omega-3 fatty acids has been associated with stomatitis/oral mucositis in a patient with metastatic clear cell renal cancer (86) .
+DSI003993,interacts_with,D000152,MSKCC,,
+DSI003993,interacts_with,D000115,MSKCC,,
+DSI003993,interacts_with,D000153,MSKCC,,
+DSI007851,interacts_with,D000017,MSKCC,,Anticoagulant/antiplatelet drugs: Pau d’arco may increase their activity. Clinical relevance is not known. (14) (10)
+DSI000775,interacts_with,D000154,MSKCC,,Lovastatin: Pectin caused an increase in low-density lipoprotein in patients with hypercholesterolemia (10) .
+DSI000775,interacts_with,D000155,MSKCC,,Carotenoid and alpha-tocopherol supplements : The absorption of these supplements is affected by pectin (12) .
+DSI002207,interacts_with,D000053,MSKCC,,
+DSI006799,interacts_with,D000013,MSKCC,,
+DSI006799,interacts_with,D000156,MSKCC,,
+DSI003638,interacts_with,D000157,MSKCC,,Felodipine: Peppermint oil has been reported to increase bioavailability of felodipine (Plendil) (28) . Clinical relevance has yet to be determined.
+DSI003638,interacts_with,D000065,MSKCC,,"Cyclosporine: Peppermint oil increases the bioavailability of cyclosporine in rats (29) . However, a patient with renal transplant had decreased cyclosporine level after consumption of herbal tea containing peppermint (30) ."
+DSI003638,interacts_with,D000008,MSKCC,,Cytochrome P450 substrates: Peppermint oil was shown to inhibit CYP1A2/2C8/2C9/2C19/2D6 and 3A4 enzymes and can affect the intracellular concentration of drugs metabolized by these enzymes (28) (31) (2) . Clinical relevance is not known.
+DSI003638,interacts_with,D000158,MSKCC,,"5-fluorouracil: Peppermint oil, when applied externally, can increase dermal absorption of 5-fluorouracil (32) . Clinical significance is not known."
+DSI003638,interacts_with,D000084,MSKCC,,Commonly used chemotherapy agents including docetaxel and cisplatin: A study reported minor to moderate HDIs with concurrent use of peppermint (62) .
+DSI007854,interacts_with,D000087,MSKCC,,Antidiabetic drugs : An older animal study suggests P. alliacea may have additive hypoglycemic effects (10) . Clinical relevance has yet to be determined.
+DSI007854,interacts_with,D000113,MSKCC,,"Cytochrome P450 1A2, 2C19 and 3A4 substrates : Dibenzyl trisulfide (DTS) isolated from Petiveria alliacea inhibits CYP1A2, CYP2C19, and CYP3A4 and may affect the blood levels of drugs metabolized by these enzymes (19) . Clinical relevance has yet to be determined."
+DSI000577,interacts_with,D000017,MSKCC,,Anticoagulant and/or antiplatelet drugs: Pine bark extract can inhibit platelet aggregation and may increase risk of bleeding when used with these drugs (28) .
+DSI002854,interacts_with,D000159,MSKCC,,"CYP3A substrates: Although studies in rats suggest that pomegranate juice may inhibit CYP3A activity similar to grapefruit juice (10) (11) , studies in humans did not show clinically relevant inhibition (12) (39) (40) ."
+DSI002854,interacts_with,D000043,MSKCC,,"CYP2C9 substrates: A study in rats showed that pomegranate juice inhibited CYP2C9 activity and increased tolbutamide bioavailability (18) , but pomegranate juice and extract had no effect on CYP2C9 activity in humans (41) ."
+DSI002854,interacts_with,D000053,MSKCC,,"Warfarin: According to a case report, pomegranate juice may interact with warfarin (20) ."
+DSI002854,interacts_with,D000107,MSKCC,,"Metformin: In a rat model, pre-administration of pomegranate juice reduced metformin efficacy (32) . The clinical relevance in humans has yet to be determined."
+DSI006906,interacts_with,D000026,MSKCC,,"Hepatic drug-metabolizing enzymes: In mice, administration of VSL3, a probiotic mixture of 8 bacterial strains, was shown to modify the expression of Cyp4v3, alcohol dehydrogenase 1, carboxyesterase 2a, and multiple phase II glutathione-S-transferases (57) . Human data are lacking."
+DSI000228,interacts_with,D000053,MSKCC,,"Warfarin: A published case report described a probable interaction between warfarin and honeybee pollen, which caused an increase in the international normalized ratio (INR) (8) ."
+DSI000277,interacts_with,D000011,MSKCC,,
+DSI007856,interacts_with,D000000,MSKCC,,Antidepressants/Antipsychotics: Concurrent use may result in heightened or blunted psychedelic experience (33) .
+DSI007856,interacts_with,D000013,MSKCC,,Serotonergic drugs: Simultaneous use may cause serotonin syndrome in which excessive serotonin signaling may potentially lead to life-threatening adverse reaction (28) .
+DSI000587,interacts_with,D000020,MSKCC,,"Cytochrome P450 3A4 and 2C19 substrate drugs: Quercetin was shown to significantly inhibit the constitutive CYP3A4 and CYP2C19 activity, in vitro (11) (20) . Clinical relevance is not known."
+DSI000587,interacts_with,D000126,MSKCC,,"Losartan: Following concomitant administration, quercetin increased the systemic exposure of losartan in a murine model. Clinical significance is not known (28) ."
+DSI000587,interacts_with,D000035,MSKCC,,Tamoxifen: Quercetin significantly increased the bioavailability of tamoxifen in preclinical studies. Clinical relevance has yet to be determined (34) .
+DSI000587,interacts_with,D000053,MSKCC,,Warfarin: A 79-year-old man on stable warfarin therapy for atrial fibrillation presented with elevated INR following quercetin supplementation. His INR normalized after discontinuing quercetin (35) .
+DSI001468,interacts_with,D000011,MSKCC,,
+DSI001468,interacts_with,D000026,MSKCC,,
+DSI001468,interacts_with,D000096,MSKCC,,
+DSI007133,interacts_with,D000070,MSKCC,,
+DSI007133,interacts_with,D000023,MSKCC,,
+DSI004703,interacts_with,D000021,MSKCC,,Immunosuppressants: Reishi can enhance immune response (8) .
+DSI004703,interacts_with,D000008,MSKCC,,"Cytochrome P450 substrates: In vitro, reishi polysaccharides inhibited CYP2E1, CYP1A2, and CYP3A, and may affect the intracellular concentration of drugs metabolized by these enzymes (15) (53) . Clinical relevance is not known."
+DSI003313,interacts_with,D000082,MSKCC,,"Antiplatelets: Although clinical relevance is yet to be determined, resveratrol inhibits platelet aggregation in vitro, so concurrent use with antiplatelet drugs may increase bleeding risk (70) (71) . Therefore, use of this supplement should be discussed with the treating physician."
+DSI003313,interacts_with,D000147,MSKCC,,"Carbamazepine: In a murine model, Polygonum cuspidatum , an herbal supplement rich in resveratrol, increased carbamazepine blood levels due to CYP3A inhibition and multidrug resistance-associated protein 2 (40) . Clinical relevance has yet to be determined."
+DSI004542,interacts_with,D000020,MSKCC,,"CYP3A4 substrates: In preclinical studies, rhodiola inhibits CYP3A4 and can affect the intracellular concentration of drugs metabolized by this enzyme (12) (21) . Clinical relevance is yet to be determined."
+DSI004542,interacts_with,D000043,MSKCC,,"CYP2C9 substrates: Rhodiola modestly inhibits CYP2C9, and may affect drugs metabolized by this enzyme, particularly those with a narrow therapeutic index such as phenytoin and warfarin (23) ."
+DSI004542,interacts_with,D000023,MSKCC,,"P-glycoprotein substrates: In preclinical studies, rhodiola was shown to inhibit P-gp activity and can interfere with the metabolism of certain drugs (12) (21) . Clinical relevance is yet to be determined."
+DSI004542,interacts_with,D000000,MSKCC,,Antidepressants: Rhodiola has MAO inhibition activity and may increase serotonergic side effects (13) . Clinical relevance is yet to be determined.
+DSI004542,interacts_with,D000016,MSKCC,,Antihypertensives: Rhodiola has MAO inhibition activity and may increase hypotensive side effects (13) . Clinical relevance is yet to be determined.
+DSI004542,interacts_with,D000090,MSKCC,,CNS Stimulants: Rhodiola has MAO inhibition activity and may enhance the hypertensive effect (13) . Clinical relevance is yet to be determined.
+DSI003588,interacts_with,D000091,MSKCC,,Digoxin: Potassium loss due to rhubarb’s laxative effect can increase risk of hypokalemia (9) .
+DSI003588,interacts_with,D000160,MSKCC,,Melatonin: A study using human primary hepatocytes showed that concomitant use can cause metabolic disorder of melatonin (31) . Clinical relevance is not known.
+DSI003588,interacts_with,D000065,MSKCC,,Cyclosporine: Rhubarb decreased bioavailability of cyclosporine in a murine model. Clinical relevance is not known (32) .
+DSI003588,interacts_with,D000096,MSKCC,,Methotrexate: Rhubarb increased exposure to methotrexate in a murine model. Clinical relevance is not clear (33) .
+DSI001876,interacts_with,D000159,MSKCC,,"CYP3A substrate drugs: In animal studies, rooibos tea induced CYP3A and may reduce serum levels of these substrate drugs (26) . Clinical relevance has yet to be determined."
+DSI001876,interacts_with,D000028,MSKCC,,"Tacrolimus: In a 38-year-old woman with acute myeloid leukemia who underwent bone marrow transplantation, excessive rooibos tea consumption (more than 2 litres a day) reduced the concentration of tacrolimus, resulting in the development of graft-versus-host disease (29) ."
+DSI000261,interacts_with,D000053,MSKCC,,"Warfarin: In a case report of elevated INR and subsequent bleeding, royal jelly was the only identified source of warfarin’s enhanced effects (18) ."
+DSI000261,interacts_with,D000161,MSKCC,,Temozolomide: Lab studies suggest royal jelly may increase the cytotoxic effect of temozolomide (28) . Clinical relevance has yet to be determined.
+DSI002820,interacts_with,D000162,MSKCC,,
+DSI002820,interacts_with,D000163,MSKCC,,
+DSI002820,interacts_with,D000000,MSKCC,,
+DSI007385,interacts_with,D000008,MSKCC,,
+DSI000000,interacts_with,D000011,MSKCC,,"Anticoagulants, antiplatelets: Saw palmetto may have additive anticoagulant effects, according to case reports (11) (21) (49) ."
+DSI000000,interacts_with,D000033,MSKCC,,"Nonsteroidal anti-inflammatory drugs (NSAIDs): Saw palmetto may increase the risk of side effects with these drugs, according to a case report (21) ."
+DSI000000,interacts_with,D000074,MSKCC,,UGT (Uridine 5’-diphospho-glucuronosyltransferase) substrates: Saw palmetto inhibits UGT enzymes in vitro and can increase the side effects of drugs metabolized by them (25) . Clinical relevance is not known.
+DSI004598,interacts_with,D000113,MSKCC,,"CYP1A2, 3A4, and 3A5 substrates: In vitro studies suggest that lignans isolated from schisandra can inhibit CYP3A4 and CYP3A5 enzymes (41) . Animal studies suggest schisandra inhibits CYP3A4 and CYP1A2 and can affect the intracellular concentration of drugs metabolized by these enzymes. Long-term use can also induce CYP3A4 activity (33) (34) . Clinical relevance has yet to be determined."
+DSI004598,interacts_with,D000023,MSKCC,,P-glycoprotein substrates: Lab and human studies suggest schisandra can inhibit P-gp activity and may interfere with the metabolism of certain drugs (35) (36) .
+DSI004598,interacts_with,D000028,MSKCC,,"Tacrolimus: In liver transplant patients, schisandra increased blood levels of tacrolimus, an immunosuppressant (24) ."
+DSI000199,interacts_with,D000011,MSKCC,,Anticoagulants / Antiplatelets: Lab studies suggest baicalin has antithrombotic activity (12) and may have additive effects. Clinical relevance has yet to be determined.
+DSI000199,interacts_with,D000070,MSKCC,,"Statins: In healthy volunteers, baicalin decreased blood levels of statin drugs used to lower cholesterol (13) ."
+DSI000199,interacts_with,D000039,MSKCC,,"SLC transporters: In vitro, baicalein, baicalin, and wogonin inhibited uptake of substrates mediated by essential solute carrier transporters, membrane proteins responsible for the cellular influx of various drugs (21) . Clinical relevance has yet to be determined."
+DSI005228,interacts_with,D000011,MSKCC,,
+DSI000497,interacts_with,D000022,MSKCC,,
+DSI007861,interacts_with,D000164,MSKCC,,"S-1(Tegafur/gimeracil/oteracil): In a murine model, repeated doses of Shi Quan Da Bu Tang inhibited absorption of gimeracil, an inhibitor of 5-FU metabolism, leading to increased elimination and reduced plasma levels of 5-FU. Clinical relevance is not known (25) ."
+DSI007862,interacts_with,D000165,MSKCC,,Interferon: Concurrent use may increase the risk of interstitial pneumonitis (3) .
+DSI007862,interacts_with,D000013,MSKCC,,"CYP450 substrate drugs: Preclinical studies show that Sho-saiko-to upregulates CYP2B, CYP3A1, and CYP4A1 expression (19) , and can interact with drugs metabolized by CYP2C9 (20) . In healthy subjects, it reduced CYP1A2 activity (32) . Although clinical relevance has yet to be determined, patients should only use Sho-saiko-to under the close supervision of a qualified practitioner."
+DSI007862,interacts_with,D000166,MSKCC,,"Tolbutamide: In an animal study, sho-saiko-to reduced tolbutamide bioavailability following concurrent oral administration (21) . Clinical relevance has yet to be determined."
+DSI000170,interacts_with,D000091,MSKCC,,"Digoxin: In a case report, Siberian ginseng elevated serum digoxin levels (12) ."
+DSI000153,interacts_with,D000020,MSKCC,,
+DSI001018,interacts_with,D000167,MSKCC,,"Paclitaxel: In mice, S. flavescens flavonoids may enhance the effects of Taxol against certain tumors (16) . Clinical relevance has yet to be determined."
+DSI001018,interacts_with,D000168,MSKCC,,"Ampicillin/gentamicin: In vitro, sophoraflavanone G may increase the activity of these antibiotics against oral bacteria (17) .  Clinical relevance has yet to be determined."
+DSI007199,interacts_with,D000035,MSKCC,,
+DSI007199,interacts_with,D000007,MSKCC,,
+DSI007199,interacts_with,D000023,MSKCC,,
+DSI007199,interacts_with,D000169,MSKCC,,
+DSI007199,interacts_with,D000036,MSKCC,,
+DSI001474,interacts_with,D000170,MSKCC,,"Antiandrogen drugs (bicalutamide, flutamide, abiraterone): In animal studies, S. acmella may increase testosterone levels (5) . Clinical relevance has yet to be determined."
+DSI001474,interacts_with,D000022,MSKCC,,"Diuretics: In animal studies, S. acmella has loop diuretic activity (7) , and may have additive effects with other diuretic drugs."
+DSI000093,interacts_with,D000013,MSKCC,,
+DSI000093,interacts_with,D000171,MSKCC,,
+DSI000093,interacts_with,D000029,MSKCC,,
+DSI000093,interacts_with,D000080,MSKCC,,
+DSI000093,interacts_with,D000172,MSKCC,,
+DSI000093,interacts_with,D000104,MSKCC,,
+DSI000093,interacts_with,D000084,MSKCC,,
+DSI000093,interacts_with,D000053,MSKCC,,
+DSI000093,interacts_with,D000089,MSKCC,,
+DSI000093,interacts_with,D000173,MSKCC,,
+DSI000093,interacts_with,D000174,MSKCC,,
+DSI000093,interacts_with,D000175,MSKCC,,
+DSI000093,interacts_with,D000176,MSKCC,,
+DSI000093,interacts_with,D000068,MSKCC,,
+DSI000093,interacts_with,D000177,MSKCC,,
+DSI000093,interacts_with,D000178,MSKCC,,
+DSI000093,interacts_with,D000179,MSKCC,,
+DSI000093,interacts_with,D000070,MSKCC,,
+DSI000093,interacts_with,D000180,MSKCC,,
+DSI000093,interacts_with,D000181,MSKCC,,
+DSI000093,interacts_with,D000182,MSKCC,,
+DSI000093,interacts_with,D000096,MSKCC,,
+DSI000093,interacts_with,D000183,MSKCC,,
+DSI000093,interacts_with,D000184,MSKCC,,
+DSI000093,interacts_with,D000185,MSKCC,,
+DSI000093,interacts_with,D000186,MSKCC,,
+DSI000093,interacts_with,D000091,MSKCC,,
+DSI000093,interacts_with,D000187,MSKCC,,
+DSI000093,interacts_with,D000188,MSKCC,,
+DSI000093,interacts_with,D000189,MSKCC,,
+DSI000093,interacts_with,D000108,MSKCC,,
+DSI000093,interacts_with,D000190,MSKCC,,
+DSI007242,interacts_with,D000191,MSKCC,,Verapamil: Animal studies suggest stevia may have additive antihypertensive effects (9) . Clinical relevance has yet to be determined.
+DSI007242,interacts_with,D000087,MSKCC,,Antidiabetics: Animal studies suggest stevia may affect blood glucose levels (10) . Clinical relevance has yet to be determined.
+DSI007864,interacts_with,D000192,MSKCC,,"Serotonin reuptake inhibitors: Because of its sedative effects, SZRT may interact with SRIs (17) ."
+DSI007864,interacts_with,D000092,MSKCC,,"Monoamine oxidase inhibitors: Due to its sedative effects, SZRT may interact with MAOIs (18) ."
+DSI002051,interacts_with,D000193,MSKCC,,"Isoniazid: In a double-blind safety trial of adults with HIV, a possible interaction between S. frutescens and isoniazid preventive therapy occurred, as 2 participants taking Sutherlandia developed tuberculosis despite taking isoniazid (1) ."
+DSI002051,interacts_with,D000194,MSKCC,,"Atazanavir: In human subjects, Sutherlandia significantly reduced bioavailability of this antiretroviral protease inhibitor (17) ."
+DSI000258,interacts_with,D000016,MSKCC,,"Antihypertensives: In a study of young patients with borderline hypertension, taurine supplementation reduced blood pressure (20) . Therefore it may also potentiate the hypotensive effects of these drugs."
+DSI000067,interacts_with,D000016,MSKCC,,"Antihypertensive drugs : Tribulus has angiotensin converting enzyme (ACE)-inhibition activity and therefore, may have an additional hypotensive effect (2) (3) . Clinical relevance is not known."
+DSI000067,interacts_with,D000087,MSKCC,,Antidiabetics : Tribulus may have additive hypoglycemic effects (8) . Clinical relevance is not known.
+DSI000067,interacts_with,D000089,MSKCC,,Clopidogrel : May increase the risk of blood clots. Stent thrombosis has been reported in patients following concurrent use of clopidogrel and an herbal formula containing tribulus (23) .
+DSI000067,interacts_with,D000023,MSKCC,,"P-glycoprotein (P-gp) substrate drugs : In vitro, saponins and phenolic compounds from Tribulus terrestris has been shown to inhibit P-gp activity. This may increase the risks of adverse effect of substrate drugs (48) . Clinical relevance is not known."
+DSI000057,interacts_with,D000011,MSKCC,,
+DSI000057,interacts_with,D000195,MSKCC,,
+DSI000057,interacts_with,D000196,MSKCC,,
+DSI000057,interacts_with,D000167,MSKCC,,
+DSI000057,interacts_with,D000197,MSKCC,,
+DSI000057,interacts_with,D000094,MSKCC,,
+DSI000057,interacts_with,D000198,MSKCC,,
+DSI000057,interacts_with,D000199,MSKCC,,
+DSI000057,interacts_with,D000020,MSKCC,,
+DSI000057,interacts_with,D000113,MSKCC,,
+DSI000057,interacts_with,D000026,MSKCC,,
+DSI000057,interacts_with,D000118,MSKCC,,
+DSI000057,interacts_with,D000200,MSKCC,,
+DSI000057,interacts_with,D000191,MSKCC,,
+DSI000057,interacts_with,D000028,MSKCC,,
+DSI000057,interacts_with,D000117,MSKCC,,
+DSI000057,interacts_with,D000201,MSKCC,,
+DSI000057,interacts_with,D000032,MSKCC,,
+DSI000057,interacts_with,D000126,MSKCC,,
+DSI007869,interacts_with,D000011,MSKCC,,
+DSI000218,interacts_with,D000116,MSKCC,,
+DSI000218,interacts_with,D000115,MSKCC,,
+DSI000218,interacts_with,D000142,MSKCC,,
+DSI000218,interacts_with,D000118,MSKCC,,
+DSI000218,interacts_with,D000020,MSKCC,,
+DSI000218,interacts_with,D000023,MSKCC,,
+DSI000218,interacts_with,D000074,MSKCC,,
+DSI002367,interacts_with,D000017,MSKCC,,Anticoagulants/antiplatelet agents: Vinpocetine may have additive effects and can increase risk of bleeding (13) (14) (26) .
+DSI002367,interacts_with,D000069,MSKCC,,Antihypertensive agents: Vinpocetine may increase hypotensive effects (24) .
+DSI002367,interacts_with,D000023,MSKCC,,P-glycoprotein substrates : In vitro studies indicate that vinpocetine strongly inhibits P-gp and may therefore alter the pharmacokinetics of substrate drugs (32) . Clinical relevance has yet to be determined.
+DSI000011,interacts_with,D000177,MSKCC,,"Alcohol: Ethanol can compete with retinol for alcohol dehydrogenase, leading to reduced levels of retinol oxidation to retinaldehyde and retinoic acid (46) ."
+DSI000011,interacts_with,D000053,MSKCC,,Warfarin: Large doses of vitamin A may increase the anticoagulant effects of warfarin (47) .
+DSI000011,interacts_with,D000202,MSKCC,,"Orlistat: May reduce the absorption of vitamin A. Patients taking orlistat should take a multivitamin containing vitamins D, E, K, and beta-carotene once a day at least 2 hours before or after the administration orlistat (48) ."
+DSI000011,interacts_with,D000203,MSKCC,,"Retinoids (tretinoin, acitretin, bexarotene): May increase risks of adverse effects. Avoid vitamin A supplements in excess of minimum recommended daily allowances when on these medications (49) ."
+DSI000020,interacts_with,D000137,MSKCC,,
+DSI000020,interacts_with,D000204,MSKCC,,
+DSI000020,interacts_with,D000205,MSKCC,,
+DSI000020,interacts_with,D000068,MSKCC,,
+DSI000021,interacts_with,D000206,MSKCC,,
+DSI000021,interacts_with,D000068,MSKCC,,
+DSI000021,interacts_with,D000163,MSKCC,,
+DSI000021,interacts_with,D000207,MSKCC,,
+DSI000041,interacts_with,D000156,MSKCC,,
+DSI000041,interacts_with,D000012,MSKCC,,
+DSI000041,interacts_with,D000208,MSKCC,,
+DSI000041,interacts_with,D000120,MSKCC,,
+DSI000041,interacts_with,D000112,MSKCC,,
+DSI000041,interacts_with,D000108,MSKCC,,
+DSI000022,interacts_with,D000209,MSKCC,,Aluminum hydroxide: May increase the absorption and blood level of aluminum (61) .
+DSI000022,interacts_with,D000004,MSKCC,,Atorvastatin: Vitamin D reduces blood levels of atorvastatin but it also helps lower cholesterol concentrations (62) .
+DSI000184,interacts_with,D000053,MSKCC,,
+DSI001883,interacts_with,D000011,MSKCC,,
+DSI007872,interacts_with,D000167,MSKCC,,"Paclitaxel: In a murine model, Jia Wei XYS was found to decrease the AUC and Cmax of paclitaxel by 1.5 fold both in plasma and lymph. The half-life of paclitaxel increased from 73 min to 111 min (14) ."
+DSI007872,interacts_with,D000035,MSKCC,,"Tamoxifen: In vitro and in vivo studies did not find significant changes in tumor weight or in the expression of AKT, ERK, p38, and p27 (Kip1) genes at mid-high dose of Jia Wei XYS (2.6 g/kg-3.9g/kg). But at low dose (1.3 g/kg) there was a decreased expression of the LC3-II gene (15) ."
+DSI001240,interacts_with,D000210,MSKCC,,Antianxiety agents: Yohimbine may reduce their therapeutic effects (27) .
+DSI001240,interacts_with,D000000,MSKCC,,Antidepressants: Yohimbine may augment side effects (28) .
+DSI001240,interacts_with,D000016,MSKCC,,Antihypertensives: Yohimbine may diminish their effects (8) .
+DSI001240,interacts_with,D000183,MSKCC,,Bupropion: Coingestion with yohimbe products resulted in toxic effects (14) .
+DSI001240,interacts_with,D000118,MSKCC,,CYP2D6 substrate drugs: Yohimbine inhibits CYP2D6 and may therefore affect the intracellular concentration of drugs metabolized by these enzymes (29) .
+DSI001240,interacts_with,D000211,MSKCC,,Opioids: Yohimbine may induce withdrawal and anxiety symptoms (30) .
+DSI007873,interacts_with,D000017,MSKCC,,"Anticoagulant or antiplatelet drugs: Preclinical studies indicate notoginseng has anticoagulant, antiplatelet (6) , and fibrinolytic (7) activities, and may increase the risk of bleeding when used with these drugs. Clinical relevance has yet to be determined."
+DSI007873,interacts_with,D000159,MSKCC,,CYP3A substrates: Preclinical studies indicate notoginseng saponins can inhibit CYP3A activity and may affect the metabolism of substrate drugs (25) . Clinical relevance has yet to be determined.
+DSI007873,interacts_with,D000113,MSKCC,,"CYP1A2, 2E1 substrates: Preclinical studies indicate notoginseng saponins can induce CYP1A2 and may affect the metabolism of substrate drugs (26) (27) . Clinical relevance has yet to be determined."
+DSI007873,interacts_with,D000120,MSKCC,,Glutathione-S-transferase (GST) substrates: Preclinical studies indicate notoginseng inhibits the glutathione-S-transferase activity and may interfere with the metabolism of substrate drugs (28) . Clinical relevance has yet to be determined.
+DSI007714,interacts_with,D000128,MSKCC,,"Antibiotics and ferrous drugs: Because zeolites have chelating (23) and ion-exchanging effects (16) , they can potentially bind to tetracycline derivatives, quinolones, and iron resulting in decreased bioavailability."
+DSI007714,interacts_with,D000021,MSKCC,,Immunosuppressants: Zeolites may also provoke graft versus host reaction (26) and therefore should not be used with other immunosuppressants or in transplant patients.
+DSI000006,interacts_with,D000212,MSKCC,,
+DSI000006,interacts_with,D000048,MSKCC,,
+DSI000006,interacts_with,D000207,MSKCC,,
+DSI000006,interacts_with,D000213,MSKCC,,
+DSI000006,interacts_with,D000156,MSKCC,,
+DSI007875,interacts_with,D000012,MSKCC,,
+DSI007875,interacts_with,D000013,MSKCC,,
