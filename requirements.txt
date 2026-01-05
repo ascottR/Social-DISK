@@ -1,0 +1,8 @@
+streamlit
+pandas
+httpx[http2]
+neo4j
+groq
+asyncio
+plotly
+asyncpraw

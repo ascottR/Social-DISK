@@ -1,0 +1,5 @@
+1.pip install httpx pandas asyncio
+
+2.reddit_scraper.py
+.\venv\Scripts\Activate.ps1
+3.
